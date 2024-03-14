@@ -1,0 +1,128 @@
+Type,"Reference number",Check-in,Checkout,"Guest name","Reservation status",Currency,"Payment status",Amount,Commission,"Payment charge","VAT for online platform services",Net,"Payout date","Payout ID"
+Reservation,3603074341,"Jan 19, 2023","Jan 23, 2023","Ioan Stanciu",ok,IDR,by_booking,5600000,-840000,-128800,-106568,4524632,"Feb 1, 2023",TVM7zUVuQoHT3eIp
+Reservation,3361208255,"Jan 17, 2023","Jan 18, 2023","Oscar Garcia  Lopez",ok,IDR,by_booking,2450000,-367500,-56350,-46624,1979526,"Feb 1, 2023",TVM7zUVuQoHT3eIp
+Reservation,2554539677,"Jan 12, 2023","Jan 15, 2023","Ricco Rieder",ok,IDR,by_booking,3510000,-526500,-80730,-66795,2835975,"Feb 1, 2023",TVM7zUVuQoHT3eIp
+Reservation,2443589155,"Jan 11, 2023","Jan 12, 2023","Christy Buttigieg",ok,IDR,by_booking,2100000,-315000,-48300,-39963,1696737,"Feb 1, 2023",TVM7zUVuQoHT3eIp
+Reservation,3994942685,"Jan 8, 2023","Jan 11, 2023","Christy Buttigieg",ok,IDR,by_booking,4300000,-645000,-98900,-81829,3474271,"Feb 1, 2023",TVM7zUVuQoHT3eIp
+Reservation,2958489208,"Jan 5, 2023","Jan 7, 2023","Danielle Langston",ok,IDR,by_booking,3800000,-570000,-87400,-72314,3070286,"Feb 1, 2023",TVM7zUVuQoHT3eIp
+Reservation,2494666128,"Jan 4, 2023","Jan 7, 2023","FERNANDO SANCHEZ FERRANDEZ",ok,IDR,by_booking,3900000,-585000,-89700,-74217,3151083,"Feb 1, 2023",TVM7zUVuQoHT3eIp
+Reservation,3416325428,"Jan 3, 2023","Jan 4, 2023","Maria Margareth Christiningsih",ok,IDR,by_booking,1300000,-195000,0,-21450,1083550,"Feb 1, 2023",TVM7zUVuQoHT3eIp
+Reservation,2548490780,"Feb 22, 2023","Feb 27, 2023","Nancy Baranowski",ok,IDR,by_booking,6900000,-1035000,-158700,-131307,5574993,"Mar 1, 2023",0eOE2qNqvUxCeZgL
+Reservation,3075653701,"Feb 12, 2023","Feb 20, 2023","Igor PaÅkowski",ok,IDR,by_booking,14000000,-2100000,-322000,-266420,11311580,"Mar 1, 2023",0eOE2qNqvUxCeZgL
+Reservation,2499226844,"Feb 11, 2023","Feb 20, 2023","Rachel Smorthwaite",ok,IDR,by_booking,12100000,-1815000,-278300,-230263,9776437,"Mar 1, 2023",0eOE2qNqvUxCeZgL
+Reservation,2191842881,"Feb 4, 2023","Feb 7, 2023","Karis Erceg",ok,IDR,by_booking,5500000,-825000,-126500,-104665,4443835,"Mar 1, 2023",0eOE2qNqvUxCeZgL
+Reservation,2909416228,"Mar 26, 2023","Mar 30, 2023","Michelle Lacroix",ok,IDR,by_booking,7200000,-1080000,-165600,-137016,5817384,"Apr 1, 2023",MzXMvaEHncjVvKO1
+Reservation,2441535043,"Mar 23, 2023","Mar 30, 2023","CsilÃ³nÃ© Gabriella",ok,IDR,by_booking,9045000,-1356750,-208035,-172126,7308089,"Apr 1, 2023",MzXMvaEHncjVvKO1
+Reservation,3919334580,"Mar 25, 2023","Mar 26, 2023","Tai Yi Rou",ok,IDR,by_booking,1700000,-255000,0,-28050,1416950,"Apr 1, 2023",MzXMvaEHncjVvKO1
+Reservation,3464515540,"Mar 24, 2023","Mar 25, 2023","YIROU TAI",ok,IDR,by_booking,2100000,-315000,-48300,-39963,1696737,"Apr 1, 2023",MzXMvaEHncjVvKO1
+Reservation,3326360929,"Mar 23, 2023","Mar 25, 2023","Alexandru Mortan",ok,IDR,by_booking,3800000,-570000,-87400,-72314,3070286,"Apr 1, 2023",MzXMvaEHncjVvKO1
+Reservation,3740433874,"Mar 16, 2023","Mar 21, 2023","Ariana-Paula Davidoni",ok,IDR,by_booking,6900000,-1035000,-158700,-131307,5574993,"Apr 1, 2023",MzXMvaEHncjVvKO1
+Reservation,3357832528,"Mar 15, 2023","Mar 17, 2023","Akshat Jain",ok,IDR,by_booking,3800000,-570000,-87400,-72314,3070286,"Apr 1, 2023",MzXMvaEHncjVvKO1
+Reservation,3257255967,"Mar 13, 2023","Mar 16, 2023","Eddy Pamela",ok,IDR,by_booking,4300000,-645000,-98900,-81829,3474271,"Apr 1, 2023",MzXMvaEHncjVvKO1
+Reservation,2294969472,"Mar 13, 2023","Mar 16, 2023","Sarah Abramovic",ok,IDR,by_booking,5500000,-825000,-126500,-104665,4443835,"Apr 1, 2023",MzXMvaEHncjVvKO1
+Reservation,3609290111,"Mar 12, 2023","Mar 13, 2023",,ok,IDR,by_booking,1700000,-255000,-39100,-32351,1373549,"Apr 1, 2023",MzXMvaEHncjVvKO1
+Reservation,2961731208,"Mar 5, 2023","Mar 12, 2023","Julia Suris",ok,IDR,by_booking,9500000,-1425000,-218500,-180785,7675715,"Apr 1, 2023",MzXMvaEHncjVvKO1
+Reservation,3240484636,"Feb 25, 2023","Mar 3, 2023","Stephanie Wheeler",ok,IDR,by_booking,10600000,-1590000,-243800,-201718,8564482,"Apr 1, 2023",MzXMvaEHncjVvKO1
+Reservation,3603363114,"Apr 28, 2023","Apr 30, 2023",,ok,IDR,by_booking,3000000,-450000,-69000,-57090,2423910,"May 1, 2023",9Dw3Sv70QjWidaRj
+Reservation,2555218418,"Apr 24, 2023","Apr 28, 2023","Christin Schoss",ok,IDR,by_booking,5600000,-840000,-128800,-106568,4524632,"May 1, 2023",9Dw3Sv70QjWidaRj
+Reservation,3161251590,"Apr 23, 2023","Apr 26, 2023","Amit Prakash",ok,IDR,by_booking,5500000,-825000,-126500,-104665,4443835,"May 1, 2023",9Dw3Sv70QjWidaRj
+Reservation,3009839266,"Apr 20, 2023","Apr 25, 2023","Ilsen Wunil",ok,IDR,by_booking,26975000,-4046250,-620425,-513334,21794991,"May 1, 2023",9Dw3Sv70QjWidaRj
+Reservation,2715524171,"Apr 22, 2023","Apr 23, 2023","Anirudha Bhatkar",ok,IDR,by_booking,1700000,-255000,-39100,-32351,1373549,"May 1, 2023",9Dw3Sv70QjWidaRj
+Reservation,3152159471,"Apr 18, 2023","Apr 22, 2023","Ines Lutzmann",ok,IDR,by_booking,5600000,-840000,-128800,-106568,4524632,"May 1, 2023",9Dw3Sv70QjWidaRj
+Reservation,2245820734,"Apr 16, 2023","Apr 21, 2023","Moritz GroÃ",ok,IDR,by_booking,8900000,-1335000,-204700,-169367,7190933,"May 1, 2023",9Dw3Sv70QjWidaRj
+Reservation,2941766033,"Apr 14, 2023","Apr 18, 2023","Jot Suijlen",ok,IDR,by_booking,7200000,-1080000,-165600,-137016,5817384,"May 1, 2023",9Dw3Sv70QjWidaRj
+Reservation,3482088619,"Apr 5, 2023","Apr 10, 2023","Rachael Jefferies",ok,IDR,by_booking,5850000,-877500,-134550,-111326,4726624,"May 1, 2023",9Dw3Sv70QjWidaRj
+Reservation,3260060854,"Apr 4, 2023","Apr 5, 2023","GÃ¶ktuÄ Canbaba",ok,IDR,by_booking,2100000,-315000,-48300,-39963,1696737,"May 1, 2023",9Dw3Sv70QjWidaRj
+Reservation,3642919682,"Apr 2, 2023","Apr 4, 2023","Raphael Rajzman",ok,IDR,by_booking,3800000,-570000,-87400,-72314,3070286,"May 1, 2023",9Dw3Sv70QjWidaRj
+Reservation,3322166774,"May 22, 2023","May 24, 2023","Nada Madad",ok,IDR,by_booking,5400000,-810000,-124200,-102762,4363038,"Jun 1, 2023",5Zwm2fP24ebFcmLk
+Reservation,3001503441,"May 21, 2023","May 22, 2023","Sumit Manawat",ok,IDR,by_booking,2900000,-435000,-66700,-55187,2343113,"Jun 1, 2023",5Zwm2fP24ebFcmLk
+Reservation,2112278970,"May 18, 2023","May 22, 2023",,ok,IDR,by_booking,8600000,-1290000,-197800,-163658,6948542,"Jun 1, 2023",5Zwm2fP24ebFcmLk
+Reservation,2359920495,"May 19, 2023","May 21, 2023","Cristina Moreno Marin",ok,IDR,by_booking,5400000,-810000,-124200,-102762,4363038,"Jun 1, 2023",5Zwm2fP24ebFcmLk
+Reservation,3168038825,"May 18, 2023","May 19, 2023","CHANG CHIN LUN",ok,IDR,by_booking,2900000,-435000,0,-47850,2417150,"Jun 1, 2023",5Zwm2fP24ebFcmLk
+Reservation,3638867772,"May 12, 2023","May 14, 2023","Bettina LÃ¤mmel",ok,IDR,by_booking,3800000,-570000,-87400,-72314,3070286,"Jun 1, 2023",5Zwm2fP24ebFcmLk
+Reservation,2541802038,"May 8, 2023","May 12, 2023","Ulrike Meier",ok,IDR,by_booking,5600000,-840000,-128800,-106568,4524632,"Jun 1, 2023",5Zwm2fP24ebFcmLk
+Reservation,3049695085,"May 9, 2023","May 11, 2023","Parth Vanzaria",ok,IDR,by_booking,3800000,-570000,-87400,-72314,3070286,"Jun 1, 2023",5Zwm2fP24ebFcmLk
+Reservation,3113311771,"May 4, 2023","May 8, 2023",,ok,IDR,by_booking,18200000,-2730000,-418600,-346346,14705054,"Jun 1, 2023",5Zwm2fP24ebFcmLk
+Reservation,3125669291,"Jun 18, 2023","Jun 20, 2023","Chan King hong",ok,IDR,by_booking,4500000,-675000,0,-74250,3750750,"Jun 26, 2023",mdMNM4ehtCZtB3cq
+Reservation,3083963028,"Jun 14, 2023","Jun 18, 2023","Alice Kam Ying Chan",ok,IDR,by_booking,10000000,-1500000,-230000,-190300,8079700,"Jun 26, 2023",mdMNM4ehtCZtB3cq
+Reservation,3561721276,"Jun 5, 2023","Jun 11, 2023","Tudor Rad",ok,IDR,by_booking,12700000,-1905000,-292100,-241681,10261219,"Jun 26, 2023",mdMNM4ehtCZtB3cq
+Reservation,2762696670,"May 30, 2023","Jun 4, 2023","Alexander Hergert",ok,IDR,by_booking,10650000,-1597500,-244950,-202670,8604880,"Jun 26, 2023",mdMNM4ehtCZtB3cq
+Reservation,3548627543,"May 26, 2023","Jun 1, 2023","Mayke Geradts",ok,IDR,by_booking,15000000,-2250000,-345000,-285450,12119550,"Jun 26, 2023",mdMNM4ehtCZtB3cq
+Reservation,3168038825,"May 18, 2023","May 19, 2023","CHANG CHIN LUN",ok,IDR,by_booking,0,0,-66700,-7337,-74037,"Jun 26, 2023",mdMNM4ehtCZtB3cq
+Reservation,3049249820,"Aug 1, 2023","Aug 4, 2023","Andrea Hyde",ok,IDR,by_booking,7900000,-1185000,0,-130350,6584650,"Aug 4, 2023",gWgDq4tt87v9NJ92
+Reservation,2312588114,"Jul 30, 2023","Aug 2, 2023","Patrick Eilers",ok,IDR,by_booking,6550000,-982500,-11316,-109320,5446864,"Aug 4, 2023",gWgDq4tt87v9NJ92
+Reservation,3176189412,"Jul 26, 2023","Jul 30, 2023",,ok,IDR,by_booking,11200000,-1680000,-257600,-213136,9049264,"Aug 4, 2023",gWgDq4tt87v9NJ92
+Reservation,3686934812,"Jul 25, 2023","Jul 28, 2023","MuÃ±oz de Hoyos Celia",ok,IDR,by_booking,7900000,-1185000,-181700,-150337,6382963,"Aug 4, 2023",gWgDq4tt87v9NJ92
+Reservation,2785397836,"Jul 24, 2023","Jul 25, 2023","Alex Ducruet",ok,IDR,by_booking,2695000,-404250,-4223,-44932,2241595,"Aug 4, 2023",gWgDq4tt87v9NJ92
+Reservation,2876365008,"Jul 22, 2023","Jul 24, 2023","Meenakshi Choudhary",ok,IDR,by_booking,12400000,-1860000,-285200,-235972,10018828,"Aug 4, 2023",gWgDq4tt87v9NJ92
+Reservation,3169187731,"Jul 13, 2023","Jul 18, 2023",,ok,IDR,by_booking,12900000,-1935000,-296700,-245487,10422813,"Aug 4, 2023",gWgDq4tt87v9NJ92
+Reservation,2168247831,"Jul 17, 2023","Jul 18, 2023","Afri Setiawan",ok,IDR,by_booking,2450000,-367500,0,-40425,2042075,"Aug 4, 2023",gWgDq4tt87v9NJ92
+Reservation,3023958351,"Jul 9, 2023","Jul 11, 2023","RISHIT NARENDRA SANGHVI",ok,IDR,by_booking,9900000,-1485000,-227700,-188397,7998903,"Aug 4, 2023",gWgDq4tt87v9NJ92
+Reservation,3326942149,"Jul 6, 2023","Jul 9, 2023","Belinda Besley",ok,IDR,by_booking,7900000,-1185000,-181700,-150337,6382963,"Aug 4, 2023",gWgDq4tt87v9NJ92
+Reservation,3427655490,"Jul 5, 2023","Jul 6, 2023","Kevin Krause",ok,IDR,by_booking,2900000,-435000,-66700,-55187,2343113,"Aug 4, 2023",gWgDq4tt87v9NJ92
+Reservation,2206829219,"Jul 3, 2023","Jul 6, 2023","Emre Imece",ok,IDR,by_booking,8500000,-1275000,-195500,-161755,6867745,"Aug 4, 2023",gWgDq4tt87v9NJ92
+Reservation,3944361845,"Jun 28, 2023","Jul 2, 2023","Julianne Bell",ok,IDR,by_booking,10400000,-1560000,-239200,-197912,8402888,"Aug 4, 2023",gWgDq4tt87v9NJ92
+Reservation,2546203543,"Jun 27, 2023","Jun 28, 2023","Kara Garman",ok,IDR,by_booking,2900000,-435000,-66700,-55187,2343113,"Aug 4, 2023",gWgDq4tt87v9NJ92
+Reservation,2460622348,"Jun 24, 2023","Jun 27, 2023",,ok,IDR,by_booking,6550000,-982500,-150650,-124646,5292204,"Aug 4, 2023",gWgDq4tt87v9NJ92
+Reservation,3125669291,"Jun 18, 2023","Jun 20, 2023","Chan King hong",ok,IDR,by_booking,0,0,-103500,-11385,-114885,"Aug 4, 2023",gWgDq4tt87v9NJ92
+Reservation,2481375057,"Aug 28, 2023","Aug 30, 2023",,ok,IDR,by_booking,5400000,-810000,-124200,-102762,4363038,"Sep 1, 2023",K3WPCKQe3khhvUev
+Reservation,2639032767,"Aug 26, 2023","Aug 27, 2023","Shinnawi Mohd",ok,IDR,by_booking,2900000,-435000,-66700,-55187,2343113,"Sep 1, 2023",K3WPCKQe3khhvUev
+Reservation,3838471338,"Aug 24, 2023","Aug 26, 2023","Jill Romine",ok,IDR,by_booking,4500000,-675000,-103500,-85635,3635865,"Sep 1, 2023",K3WPCKQe3khhvUev
+Reservation,2821736847,"Aug 25, 2023","Aug 26, 2023","Shinnawi Mohd",ok,IDR,by_booking,2900000,-435000,-66700,-55187,2343113,"Sep 1, 2023",K3WPCKQe3khhvUev
+Reservation,2479279686,"Aug 20, 2023","Aug 24, 2023","Ruwini Taleyratne",ok,IDR,by_booking,8600000,-1290000,-197800,-163658,6948542,"Sep 1, 2023",K3WPCKQe3khhvUev
+Reservation,3508172440,"Aug 19, 2023","Aug 21, 2023","Darya Goncharova",ok,IDR,by_booking,5800000,-870000,-133400,-110374,4686226,"Sep 1, 2023",K3WPCKQe3khhvUev
+Reservation,3016488112,"Aug 14, 2023","Aug 18, 2023","Elliot Duff",ok,IDR,by_booking,10400000,-1560000,-239200,-197912,8402888,"Sep 1, 2023",K3WPCKQe3khhvUev
+Reservation,3218413336,"Aug 15, 2023","Aug 16, 2023","Navodit Ravi",ok,IDR,by_booking,2900000,-435000,-66700,-55187,2343113,"Sep 1, 2023",K3WPCKQe3khhvUev
+Reservation,2834710068,"Aug 15, 2023","Aug 16, 2023","Vanessa Traini",ok,IDR,by_booking,6400000,-960000,-147200,-121792,5171008,"Sep 1, 2023",K3WPCKQe3khhvUev
+Reservation,3490841136,"Aug 13, 2023","Aug 15, 2023","James Smith",ok,IDR,by_booking,4500000,-675000,-103500,-85635,3635865,"Sep 1, 2023",K3WPCKQe3khhvUev
+Reservation,3435477435,"Aug 8, 2023","Aug 10, 2023","Raksha Yadalam",ok,IDR,by_booking,5400000,-810000,-124200,-102762,4363038,"Sep 1, 2023",K3WPCKQe3khhvUev
+Reservation,2531418337,"Aug 5, 2023","Aug 8, 2023","Hamza Bhatti",ok,IDR,by_booking,6550000,-982500,-150650,-124646,5292204,"Sep 1, 2023",K3WPCKQe3khhvUev
+Reservation,3357813893,"Aug 1, 2023","Aug 5, 2023","valerio sito",ok,IDR,by_booking,11200000,-1680000,-257600,-213136,9049264,"Sep 1, 2023",K3WPCKQe3khhvUev
+Reservation,3149563773,"Aug 4, 2023","Aug 5, 2023","Maxime Deboey",ok,IDR,by_booking,2450000,-367500,-56350,-46624,1979526,"Sep 1, 2023",K3WPCKQe3khhvUev
+Reservation,3049249820,"Aug 1, 2023","Aug 4, 2023","Andrea Hyde",ok,IDR,by_booking,0,0,-181700,-19987,-201687,"Sep 1, 2023",K3WPCKQe3khhvUev
+Reservation,4234415046,"Sep 26, 2023","Sep 29, 2023","April Angeles",ok,IDR,by_booking,13150000,-1972500,-302450,-250244,10624806,"Oct 1, 2023",gBUjPkWJsFFUdeNu
+Reservation,3927231138,"Sep 26, 2023","Sep 29, 2023","Katherine Kerr",ok,IDR,by_booking,7900000,-1185000,-181700,-150337,6382963,"Oct 1, 2023",gBUjPkWJsFFUdeNu
+Reservation,3454254595,"Sep 22, 2023","Sep 26, 2023","Leandra Do livramento",ok,IDR,by_booking,8600000,-1290000,-197800,-163658,6948542,"Oct 1, 2023",gBUjPkWJsFFUdeNu
+Reservation,3541641864,"Sep 20, 2023","Sep 24, 2023","Roopini M S",ok,IDR,by_booking,24400000,-3660000,-561200,-464332,19714468,"Oct 1, 2023",gBUjPkWJsFFUdeNu
+Reservation,2401234832,"Sep 16, 2023","Sep 20, 2023",,ok,IDR,by_booking,10400000,-1560000,-239200,-197912,8402888,"Oct 1, 2023",gBUjPkWJsFFUdeNu
+Reservation,2001593076,"Sep 14, 2023","Sep 20, 2023","Tomasz Kraus",ok,IDR,by_booking,29120000,-4368000,-535808,-539419,23676773,"Oct 1, 2023",gBUjPkWJsFFUdeNu
+Reservation,3067851789,"Sep 10, 2023","Sep 16, 2023","Kristen Bischoff",ok,IDR,by_booking,15400000,-2310000,-354200,-293062,12442738,"Oct 1, 2023",gBUjPkWJsFFUdeNu
+Reservation,2786526831,"Sep 12, 2023","Sep 16, 2023","Julian Teichter",ok,IDR,by_booking,10400000,-1560000,-239200,-197912,8402888,"Oct 1, 2023",gBUjPkWJsFFUdeNu
+Reservation,2445664922,"Sep 5, 2023","Sep 11, 2023","Sebastiaan Knoops",ok,IDR,by_booking,12700000,-1905000,-292100,-241681,10261219,"Oct 1, 2023",gBUjPkWJsFFUdeNu
+Reservation,3227600093,"Sep 9, 2023","Sep 10, 2023","Bon Joshua Acha,John Carlo Ravanes",ok,IDR,by_booking,2900000,-435000,-66700,-55187,2343113,"Oct 1, 2023",gBUjPkWJsFFUdeNu
+Reservation,4277532580,"Sep 8, 2023","Sep 9, 2023","Julia Granato",ok,IDR,by_booking,2650000,-397500,-60950,-50430,2141120,"Oct 1, 2023",gBUjPkWJsFFUdeNu
+Reservation,3143845846,"Sep 7, 2023","Sep 9, 2023","Jeenu Cruz",ok,IDR,by_booking,5400000,-810000,-124200,-102762,4363038,"Oct 1, 2023",gBUjPkWJsFFUdeNu
+Reservation,2609220639,"Aug 27, 2023","Sep 9, 2023","Tomasz Kraus",ok,IDR,by_booking,78400000,-11760000,-1803200,-1491952,63344848,"Oct 1, 2023",gBUjPkWJsFFUdeNu
+Reservation,3999229561,"Sep 5, 2023","Sep 6, 2023","Jennifer Chang",ok,IDR,by_booking,3100000,-465000,-71300,-58993,2504707,"Oct 1, 2023",gBUjPkWJsFFUdeNu
+Reservation,3219434107,"Sep 1, 2023","Sep 4, 2023","Itzel Sanchez",ok,IDR,by_booking,7900000,-1185000,-181700,-150337,6382963,"Oct 1, 2023",gBUjPkWJsFFUdeNu
+Reservation,2659497486,"Aug 30, 2023","Sep 4, 2023","Amparo Herrera",ok,IDR,by_booking,12900000,-1935000,-296700,-245487,10422813,"Oct 1, 2023",gBUjPkWJsFFUdeNu
+Reservation,2998986483,"Sep 1, 2023","Sep 3, 2023","Ahmad Shuka",ok,IDR,by_booking,4500000,-675000,-103500,-85635,3635865,"Oct 1, 2023",gBUjPkWJsFFUdeNu
+Reservation,3641857361,"Aug 29, 2023","Sep 1, 2023","Farnaz Tabatabaie",ok,IDR,by_booking,7900000,-1185000,-181700,-150337,6382963,"Oct 1, 2023",gBUjPkWJsFFUdeNu
+Reservation,2159203951,"Aug 26, 2023","Sep 1, 2023","Stefano Cogliati",ok,IDR,by_booking,12700000,-1905000,-292100,-241681,10261219,"Oct 1, 2023",gBUjPkWJsFFUdeNu
+Reservation,3101539725,"Oct 16, 2023","Oct 26, 2023","Fraenzi Di Domenico",ok,IDR,by_booking,30150000,-4522500,-693450,-573754,24360296,"Nov 1, 2023",sjR8LjElBoDgYWp5
+Reservation,4275869244,"Oct 22, 2023","Oct 24, 2023","Christian Krauss",ok,IDR,by_booking,3100000,-465000,-71300,-58993,2504707,"Nov 1, 2023",sjR8LjElBoDgYWp5
+Reservation,4188437711,"Oct 18, 2023","Oct 22, 2023","Sandra Barbera",ok,IDR,by_booking,8600000,-1290000,-197800,-163658,6948542,"Nov 1, 2023",sjR8LjElBoDgYWp5
+Reservation,4226235279,"Oct 16, 2023","Oct 18, 2023","RaphaÃ«l Duport",ok,IDR,by_booking,4000000,-600000,-92000,-76120,3231880,"Nov 1, 2023",sjR8LjElBoDgYWp5
+Reservation,4214463109,"Oct 14, 2023","Oct 18, 2023","Caroline Weber",ok,IDR,by_booking,5800000,-870000,-133400,-110374,4686226,"Nov 1, 2023",sjR8LjElBoDgYWp5
+Reservation,3386669074,"Oct 14, 2023","Oct 16, 2023","Daphne MACINA",ok,IDR,by_booking,5400000,-810000,-124200,-102762,4363038,"Nov 1, 2023",sjR8LjElBoDgYWp5
+Reservation,4125248868,"Oct 11, 2023","Oct 14, 2023","Faisal Alanazi",ok,IDR,by_booking,4450000,-667500,-102350,-84684,3595466,"Nov 1, 2023",sjR8LjElBoDgYWp5
+Reservation,2912555083,"Oct 7, 2023","Oct 10, 2023","LEE Jeong Min",ok,IDR,by_booking,18400000,-2760000,-423200,-350152,14866648,"Nov 1, 2023",sjR8LjElBoDgYWp5
+Reservation,2875840321,"Oct 5, 2023","Oct 10, 2023","Segura Alicia",ok,IDR,by_booking,10650000,-1597500,-244950,-202670,8604880,"Nov 1, 2023",sjR8LjElBoDgYWp5
+Reservation,3709562133,"Sep 29, 2023","Oct 4, 2023","Caroline Ayinon",ok,IDR,by_booking,10650000,-1597500,-244950,-202670,8604880,"Nov 1, 2023",sjR8LjElBoDgYWp5
+Reservation,2693970114,"Sep 29, 2023","Oct 3, 2023","Fang Tien-Ting",ok,IDR,by_booking,6000000,-900000,0,-99000,5001000,"Nov 1, 2023",sjR8LjElBoDgYWp5
+Reservation,4254115266,"Sep 29, 2023","Oct 2, 2023","Fang Tien-Ting",ok,IDR,by_booking,18400000,-2760000,-423200,-350152,14866648,"Nov 1, 2023",sjR8LjElBoDgYWp5
+Reservation,3567913109,"Sep 27, 2023","Oct 1, 2023","Emrah GÃ¶rmez",ok,IDR,by_booking,11200000,-1680000,-257600,-213136,9049264,"Nov 1, 2023",sjR8LjElBoDgYWp5
+Reservation,4197009760,"Nov 21, 2023","Nov 27, 2023","BahadÄ±r ERBEY",ok,IDR,by_booking,12400000,-1860000,-285200,-235972,10018828,"Dec 1, 2023",O05gllO51SZlYLfM
+Reservation,4267405963,"Nov 22, 2023","Nov 24, 2023","Hari Chandan Patnaik",ok,IDR,by_booking,3900000,-585000,-89700,-74217,3151083,"Dec 1, 2023",O05gllO51SZlYLfM
+Reservation,4035003644,"Nov 18, 2023","Nov 19, 2023","mark almlie",ok,IDR,by_booking,3095000,-464250,-71185,-58898,2500667,"Dec 1, 2023",O05gllO51SZlYLfM
+Reservation,4074181250,"Nov 5, 2023","Nov 7, 2023","Mike Merritt",ok,IDR,by_booking,3400000,-510000,-78200,-64702,2747098,"Dec 1, 2023",O05gllO51SZlYLfM
+Reservation,4012388655,"Oct 30, 2023","Nov 2, 2023","Mohamad khatab",ok,IDR,by_booking,6400000,-960000,-147200,-121792,5171008,"Dec 1, 2023",O05gllO51SZlYLfM
+Reservation,4003322979,"Dec 26, 2023","Dec 28, 2023","Cristter Badana",ok,IDR,by_booking,5800000,-1044000,-133400,-129514,4493086,"Jan 1, 2024",hpl4mkb5W126wdK5
+Reservation,4274526796,"Dec 25, 2023","Dec 27, 2023","Vijay Kumar",ok,IDR,by_booking,8900000,-1602000,-204700,-198737,6894563,"Jan 1, 2024",hpl4mkb5W126wdK5
+Reservation,4154060379,"Dec 19, 2023","Dec 20, 2023","I Made Adi Setiawan",ok,IDR,by_booking,2142500,-385650,-49278,-47842,1659730,"Jan 1, 2024",hpl4mkb5W126wdK5
+Reservation,4033579311,"Dec 12, 2023","Dec 15, 2023","ANISA RAVAT",ok,IDR,by_booking,4705000,-846900,-108215,-105063,3644822,"Jan 1, 2024",hpl4mkb5W126wdK5
+Reservation,4023865558,"Dec 11, 2023","Dec 14, 2023","Helena EscolÃ   RodrÃ­guez",ok,IDR,by_booking,5650000,-1017000,-129950,-126164,4376886,"Jan 1, 2024",hpl4mkb5W126wdK5
+Reservation,4136841796,"Dec 10, 2023","Dec 12, 2023","Sofia Barrhazi",ok,IDR,by_booking,3899999,-585000,-89700,-74217,3151082,"Jan 1, 2024",hpl4mkb5W126wdK5
+Reservation,4080144939,"Dec 4, 2023","Dec 8, 2023","Daniel Goy",ok,IDR,by_booking,6140000,-921000,-141220,-116844,4960936,"Jan 1, 2024",hpl4mkb5W126wdK5
+Reservation,4216387871,"Nov 29, 2023","Dec 1, 2023","Mohamad khatab",ok,IDR,by_booking,3900000,-585000,-89700,-74217,3151083,"Jan 1, 2024",hpl4mkb5W126wdK5
+"Commission adjustment",1601531044,,,,,,,,,,,-348933,"Jan 1, 2024",hpl4mkb5W126wdK5

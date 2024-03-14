@@ -1,0 +1,339 @@
+platform,booking_id,villa_name,guest_name,check_in,check_out,nights,total_payout,property_use_tax,host_service_fee,vat,net_income,cleaning_fee,taxable_income,commission
+airbnb,HM88JWQRZX,Lakshmi: Luxury 2 bedroom villa,Nicole Di Salvo,2024-02-11,2024-02-15,4,13406293.0,2655918.0,1897125.0,0.0,12647500.0,400000.0,12247500.0,1897125.0
+airbnb,HMNHDWNFB8,Lakshmi: Luxury 2 bedroom villa,Mikha Ramadewi,2024-02-10,2024-02-11,1,4081000.0,808500.0,577500.0,0.0,3850000.0,400000.0,3450000.0,577500.0
+airbnb,HM252CYQ5P,Chandra: Entire villa w/ private pool and kitchen,婉琪 周,2024-02-05,2024-02-06,1,2135908.0,423158.0,302250.0,0.0,2015000.0,400000.0,1615000.0,302250.0
+airbnb,HMD8TFP44H,Chandra: Entire villa w/ private pool and kitchen,Davi Teles Farenzena,2024-01-24,2024-01-26,2,2332033.0,462033.0,330000.0,0.0,2200000.0,0.0,2200000.0,330000.0
+airbnb,HME3AM3RDQ,Surya: Luxury Villa with kitchen and private pool,İlkem Şahiner,2024-01-21,2024-01-25,4,7001306.0,1387056.0,990750.0,0.0,6605000.0,400000.0,6205000.0,990750.0
+airbnb,HMJ3NJWAFY,Chandra: Entire villa w/ private pool and kitchen,Barbara Moraes,2024-01-21,2024-01-22,1,2045804.0,405304.0,289500.0,0.0,1930000.0,400000.0,1530000.0,289500.0
+airbnb,HMX9882PPB,Akasha: 3 bedroom luxury villa,Kostiantyn Skok,2024-01-13,2024-01-15,2,10833269.0,2146269.0,1533000.0,0.0,10220000.0,400000.0,9820000.0,1533000.0
+airbnb,HMX245PHTD,Chandra: Entire villa w/ private pool and kitchen,Jake Norcross,2024-01-05,2024-01-09,4,10852416.0,2183969.0,1560000.0,171553.0,10400000.0,400000.0,10000000.0,1731553.0
+airbnb,HMBWX4A5DB,Chandra: Entire villa w/ private pool and kitchen,Rachel Chiu,2024-01-02,2024-01-05,3,8373935.0,1658935.0,1185000.0,0.0,7900000.0,400000.0,7500000.0,1185000.0
+airbnb,HMA8SFKDY9,Chandra: Entire villa w/ private pool and kitchen,Shauraya Bhutani,2023-12-26,2023-12-30,4,11024006.0,2184006.0,1560000.0,0.0,10400000.0,400000.0,10000000.0,1560000.0
+airbnb,HMWAB48HT5,Chandra: Entire villa w/ private pool and kitchen,Kerim Algul,2023-12-24,2023-12-26,2,5724055.0,1134055.0,810000.0,0.0,5400000.0,400000.0,5000000.0,810000.0
+airbnb,HMCRXJBMJK,Chandra: Entire villa w/ private pool and kitchen,Samson Velpula,2023-12-15,2023-12-17,2,4922660.0,975249.0,696601.95,0.05000000004656613,4644013.0,400000.0,4244013.0,696602.0
+airbnb,HM3HSSWMF8,Chandra: Entire villa w/ private pool and kitchen,Nadia Brault,2023-12-06,2023-12-09,3,5970018.0,1182785.0,844805.85,0.15000000002328306,5632039.0,400000.0,5232039.0,844806.0
+airbnb,HMNABKWC3J,Chandra: Entire villa w/ private pool and kitchen,Neil Whybrow,2023-12-04,2023-12-06,2,3659108.0,724889.0,517803.3,-0.29999999998835847,3452022.0,400000.0,3052022.0,517803.0
+airbnb,HMXZERCB95,Chandra: Entire villa w/ private pool and kitchen,Edah Abueva,2023-11-28,2023-11-29,1,1905044.0,377415.0,269581.5,-0.5,1797210.0,400000.0,1397210.0,269581.0
+airbnb,HM295ZBZ93,Surya: Luxury Villa with kitchen and private pool,Mikko Wallenius,2023-11-26,2023-11-27,1,1682923.0,333439.0,238144.19999999998,-0.1999999999825377,1587628.0,400000.0,1187628.0,238144.0
+airbnb,HM4TFEQXMY,Chandra: Entire villa w/ private pool and kitchen,Fede Franzosi,2023-11-16,2023-11-17,1,2544093.0,504093.0,360000.0,0.0,2400000.0,400000.0,2000000.0,360000.0
+airbnb,HMYC55BZZA,Lakshmi: Luxury 2 bedroom villa,Karsten Wolff,2023-11-13,2023-11-17,4,18156906.04,3653966.68,2610000.0,287060.64000000013,17400000.0,400000.0,17000000.0,2897060.64
+airbnb,HMDN4BZZF3,Jala: Entire villa with private pool and kitchen,Maria Silva,2023-11-10,2023-11-13,3,5034998.0,997498.0,712500.0,0.0,4750000.0,400000.0,4350000.0,712500.0
+airbnb,HMYXRAXXDH,Chandra: Entire villa w/ private pool and kitchen,Stella,2023-11-05,2023-11-06,1,1062500.0,0.0,187500.0,0.0,1250000.0,0.0,1250000.0,187500.0
+airbnb,HMBW3B2APN,Chandra: Entire villa w/ private pool and kitchen,Patrick Kluskens,2023-10-31,2023-11-03,3,6360036.0,1260036.0,900000.0,0.0,6000000.0,400000.0,5600000.0,900000.0
+airbnb,HMEXWK2HEF,Chandra: Entire villa w/ private pool and kitchen,Flavio Concas,2023-11-04,2023-11-08,4,11023978.0,2183978.0,1560000.0,0.0,10400000.0,400000.0,10000000.0,1560000.0
+airbnb,HM2FSE9PR5,Jala: Entire villa with private pool and kitchen,Lauren Ziegler,2023-10-28,2023-11-04,7,11554014.0,2289014.0,1635000.0,0.0,10900000.0,400000.0,10500000.0,1635000.0
+airbnb,HMAHFD98MJ,Surya: Luxury Villa with kitchen and private pool,Natasha Egoroff,2023-10-28,2023-10-30,2,4663967.0,923967.0,660000.0,0.0,4400000.0,400000.0,4000000.0,660000.0
+airbnb,HMY8XWFYAT,Chandra: Entire villa w/ private pool and kitchen,Kisha Creasman,2023-10-25,2023-10-30,5,13461217.469999999,2709051.12,1935000.0,212833.6499999999,12899999.999999998,400000.0,12499999.999999998,2147833.65
+airbnb,HMCFXFKMRM,Surya: Luxury Villa with kitchen and private pool,Bennett Hillestad,2023-10-18,2023-10-23,5,13461028.649999999,2708918.95,1935000.0,212890.2999999998,12900000.0,400000.0,12500000.0,2147890.3
+airbnb,HMT8XMTQ99,Chandra: Entire villa w/ private pool and kitchen,Rawan Abdelraziek,2023-10-18,2023-10-22,4,11023938.66,2183938.66,1560000.0,0.0,10400000.0,400000.0,10000000.0,1560000.0
+airbnb,HM9REWQCZF,Lakshmi: Luxury 2 bedroom villa,Bineta Fall,2023-10-15,2023-10-16,1,4096812.0,811562.0,579750.0,0.0,3865000.0,400000.0,3465000.0,579750.0
+airbnb,HMJ8XZMHP5,Chandra: Entire villa w/ private pool and kitchen,Robin Avery,2023-10-14,2023-10-16,2,5635057.069999999,1134099.18,810000.0,89042.10999999999,5400000.0,400000.0,5000000.0,899042.11
+airbnb,HMJXX8N2WH,Chandra: Entire villa w/ private pool and kitchen,Sofiane Mariotte,2023-10-11,2023-10-13,2,5634964.09,1134052.81,810000.0,89088.71999999997,5399999.999999999,400000.0,4999999.999999999,899088.72
+airbnb,HMJSB2ABXY,Chandra: Entire villa w/ private pool and kitchen,舒克 杨,2023-10-10,2023-10-11,1,3074007.62,609007.62,435000.0,0.0,2900000.0,400000.0,2500000.0,435000.0
+airbnb,HMBRCC5ZKB,Chandra: Entire villa w/ private pool and kitchen,Dylan Van Rouwendaal,2023-10-08,2023-10-10,2,4240002.0,840002.0,600000.0,0.0,4000000.0,400000.0,3600000.0,600000.0
+airbnb,HMNDS4CEAA,Surya: Luxury Villa with kitchen and private pool,Othmane Ennaki,2023-10-07,2023-10-12,5,14204073.879999999,2814073.88,2010000.0,0.0,13400000.0,400000.0,13000000.0,2010000.0
+airbnb,HM3QR4C9PJ,Chandra: Entire villa w/ private pool and kitchen,Brandon Larrarte,2023-10-05,2023-10-08,3,8243674.53,1658995.16,1185000.0,130320.62999999989,7900000.0,400000.0,7500000.0,1315320.63
+airbnb,HMN8Z2E2YK,Lakshmi: Luxury 2 bedroom villa,Shawn Barber,2023-10-03,2023-10-06,3,10599996.0,2099996.0,1500000.0,0.0,10000000.0,0.0,10000000.0,1500000.0
+airbnb,HMHRKXT8C3,Chandra: Entire villa w/ private pool and kitchen,Keerthi Reddy,2023-10-01,2023-10-04,3,8243654.58,1659035.38,1185000.0,130380.80000000005,7900000.0,400000.0,7500000.0,1315380.8
+airbnb,HMC93X39XE,Chandra: Entire villa w/ private pool and kitchen,Jerry Wu,2023-09-24,2023-09-25,1,2809010.0,556510.0,397500.0,0.0,2650000.0,400000.0,2250000.0,397500.0
+airbnb,HMMMNYPNFZ,Surya: Luxury Villa with kitchen and private pool,Alexandre Piscone,2023-09-20,2023-09-22,2,5724090.27,1134090.27,810000.0,0.0,5400000.0,400000.0,5000000.0,810000.0
+airbnb,HMNX9EMC3A,Jala: Entire villa with private pool and kitchen,Leslie Bennehard,2023-09-18,2023-09-20,2,4770041.27,945041.27,675000.0,0.0,4500000.0,400000.0,4100000.0,675000.0
+airbnb,HMBNM2EYNF,Chandra: Entire villa w/ private pool and kitchen,Baptiste Pichot,2023-09-16,2023-09-17,1,3074023.35,609023.35,435000.0,0.0,2900000.0,400000.0,2500000.0,435000.0
+airbnb,HMDXDTQP29,Chandra: Entire villa w/ private pool and kitchen,Krista Misitano,2023-09-09,2023-09-11,2,5723983.99,1133983.99,810000.0,0.0,5400000.0,400000.0,5000000.0,810000.0
+airbnb,HM4RRAB4PR,Surya: Luxury Villa with kitchen and private pool,Claire Weber,2023-09-06,2023-09-08,2,5724039.11,1134039.11,810000.0,0.0,5400000.0,400000.0,5000000.0,810000.0
+airbnb,HM8XQSXDZX,Chandra: Entire villa w/ private pool and kitchen,Laith Alqaisi,2023-09-05,2023-09-07,2,5634703.04,1133868.59,810000.0,89165.55000000005,5400000.0,400000.0,5000000.0,899165.55
+airbnb,HMM3PYB8PS,Chandra: Entire villa w/ private pool and kitchen,Gaetano Cardone,2023-08-23,2023-08-24,1,2765500.56,556653.09,397500.0,43652.53000000003,2650000.0,400000.0,2250000.0,441152.53
+airbnb,HM228Y4TDX,Surya: Luxury Villa with kitchen and private pool,Christopher Robinson,2023-08-21,2023-08-25,4,10852302.69,2183919.83,1560000.0,171617.1399999999,10400000.0,400000.0,10000000.0,1731617.14
+airbnb,HM5AJHBM84,Chandra: Entire villa w/ private pool and kitchen,Dennis Schaefer,2023-08-20,2023-08-23,3,8373981.47,1658981.47,1185000.0,0.0,7900000.0,400000.0,7500000.0,1185000.0
+airbnb,HMWJACJZHQ,Lakshmi: Luxury 2 bedroom villa,Paul Brunini,2023-08-20,2023-08-26,6,27454022.84,5439022.84,3885000.0,0.0,25900000.0,400000.0,25500000.0,3885000.0
+airbnb,HMZRYAYPTK,Lakshmi: Luxury 2 bedroom villa,Yonathan T.S,2023-08-19,2023-08-20,1,4408787.52,887250.0,633750.0,69712.47999999998,4225000.0,400000.0,3825000.0,703462.48
+airbnb,HMK3QWZHYZ,Chandra: Entire villa w/ private pool and kitchen,Christina Bacchiella,2023-08-19,2023-08-20,1,3026138.1500000004,608957.91,435000.0,47819.76000000001,2900000.0,400000.0,2500000.0,482819.76
+airbnb,HMBAZQJBQR,Surya: Luxury Villa with kitchen and private pool,Sally Avis,2023-08-16,2023-08-19,3,8373567.01,1658567.01,1185000.0,0.0,7900000.0,400000.0,7500000.0,1185000.0
+airbnb,HMHA5JCWB4,Chandra: Entire villa w/ private pool and kitchen,Seda Karaca,2023-08-13,2023-08-14,1,2765199.42,556462.74,397500.0,43763.32000000001,2649999.9999999995,400000.0,2249999.9999999995,441263.32
+airbnb,HMEF3JBPRW,Surya: Luxury Villa with kitchen and private pool,Connor McSweeney,2023-08-11,2023-08-12,1,3026209.49,609042.41,435000.0,47832.919999999984,2900000.0,400000.0,2500000.0,482832.92
+airbnb,HMDR4Y22A5,Chandra: Entire villa w/ private pool and kitchen,Louis Loschetter,2023-08-10,2023-08-13,3,8373995.86,1658995.86,1185000.0,0.0,7900000.0,400000.0,7500000.0,1185000.0
+airbnb,HM9XTRSEXP,Surya: Luxury Villa with kitchen and private pool,Stephan Leiter-Hölzl,2023-08-09,2023-08-11,2,5936022.96,1176022.96,840000.0,0.0,5600000.0,400000.0,5200000.0,840000.0
+airbnb,HMB2FWFN9M,Lakshmi: Luxury 2 bedroom villa,Alexandre Teng,2023-08-08,2023-08-13,5,26393872.92,5228872.92,3735000.0,0.0,24900000.0,400000.0,24500000.0,3735000.0
+airbnb,HMFCCC994S,Surya: Luxury Villa with kitchen and private pool,Abde Bou,2023-08-08,2023-08-09,1,2634770.95,530232.1,378750.0,41711.15000000002,2525000.0,400000.0,2125000.0,420461.15
+airbnb,HMXPENNWBZ,Surya: Luxury Villa with kitchen and private pool,Casey Timorason,2023-08-05,2023-08-08,3,8373989.04,1658989.04,1185000.0,0.0,7900000.0,400000.0,7500000.0,1185000.0
+airbnb,HMQYXCJFE3,Lakshmi: Luxury 2 bedroom villa,Nadia Rana,2023-08-04,2023-08-06,2,8178467.06,1645645.3,1175625.0,129053.23999999999,7837500.0,400000.0,7437500.0,1304678.24
+airbnb,HMMKMSJY3Q,Chandra: Entire villa w/ private pool and kitchen,Elia Pignataro,2023-08-04,2023-08-08,4,8840000.0,0.0,1560000.0,0.0,10400000.0,400000.0,10000000.0,1560000.0
+airbnb,HMXSW5QB3Y,Surya: Luxury Villa with kitchen and private pool,Anthony Abduraghmaan,2023-07-30,2023-08-01,2,5723996.28,1133996.28,810000.0,0.0,5400000.0,400000.0,5000000.0,810000.0
+airbnb,HM25J9EYYC,Lakshmi: Luxury 2 bedroom villa,Caroline Dozier,2023-07-30,2023-08-04,5,22949056.54,4546556.54,3247500.0,0.0,21650000.0,400000.0,21250000.0,3247500.0
+airbnb,HM2YFEH9FN,Lakshmi: Luxury 2 bedroom villa,Valentin Angevin,2023-07-27,2023-07-30,3,12169841.61,2449191.0,1749375.0,192474.3899999999,11662500.0,400000.0,11262500.0,1941849.39
+airbnb,HMF5J8HAWZ,Lakshmi: Luxury 2 bedroom villa,Shivam Aditya,2023-07-25,2023-07-27,2,9434000.52,1869000.52,1335000.0,0.0,8900000.0,400000.0,8500000.0,1335000.0
+airbnb,HM2TMDP88E,Surya: Luxury Villa with kitchen and private pool,Lea Bachmann,2023-07-21,2023-07-23,2,5935849.59,1175849.59,840000.0,0.0,5600000.0,400000.0,5200000.0,840000.0
+airbnb,HMKBB2S5MF,Jala: Entire villa with private pool and kitchen,"남형(Robin, Nam Hyung) 김(Kim)",2023-07-18,2023-07-21,3,6942987.1899999995,1375487.19,982500.0,0.0,6550000.0,400000.0,6150000.0,982500.0
+airbnb,HMSCJMQDMP,Lakshmi: Luxury 2 bedroom villa,Arun Asokan,2023-07-16,2023-07-22,6,31588160.08,6258160.08,4470000.0,0.0,29800000.0,400000.0,29400000.0,4470000.0
+airbnb,HMKQHQK4KT,Lakshmi: Luxury 2 bedroom villa,Youness Achiban,2023-07-12,2023-07-14,2,8178482.06,1645992.18,1175625.0,129385.12000000011,7837500.0,400000.0,7437500.0,1305010.12
+airbnb,HMFAMA3RT9,Surya: Luxury Villa with kitchen and private pool,Albert Schmidt,2023-07-11,2023-07-17,6,13090000.0,0.0,2310000.0,0.0,15400000.0,400000.0,15000000.0,2310000.0
+airbnb,HMYFDY5FJW,Surya: Luxury Villa with kitchen and private pool,Hussam Mhmd,2023-07-08,2023-07-11,3,8108968.0,1606468.0,1147500.0,0.0,7650000.0,400000.0,7250000.0,1147500.0
+airbnb,HMZSCAJABS,Surya: Luxury Villa with kitchen and private pool,Angel Reinoso Salas,2023-07-07,2023-07-08,1,3073960.62,608960.62,435000.0,0.0,2900000.0,400000.0,2500000.0,435000.0
+airbnb,HM29BEDYCM,Lakshmi: Luxury 2 bedroom villa,Carsten Schmitz,2023-07-05,2023-07-12,7,31959063.11,6331563.11,4522500.0,0.0,30150000.0,400000.0,29750000.0,4522500.0
+airbnb,HMSA8BNXB4,Chandra: Entire villa w/ private pool and kitchen,Archana Kunasegaram,2023-07-02,2023-07-05,3,8373990.83,1658990.83,1185000.0,0.0,7900000.0,400000.0,7500000.0,1185000.0
+airbnb,HM5ABEHZSE,Jala: Entire villa with private pool and kitchen,Camille Roy,2023-07-04,2023-07-08,4,8246420.21,1633420.21,1167000.0,0.0,7780000.0,400000.0,7380000.0,1167000.0
+airbnb,HM8R2TDPAB,Lakshmi: Luxury 2 bedroom villa,Ira Santoso,2023-07-01,2023-07-05,4,17993500.0,3564750.0,2546250.0,0.0,16975000.0,400000.0,16575000.0,2546250.0
+airbnb,HMR2ZJQ8FK,Lakshmi: Luxury 2 bedroom villa,Jasem Abdulwahab,2023-06-27,2023-06-30,3,13938959.82,2761459.82,1972500.0,0.0,13150000.0,400000.0,12750000.0,1972500.0
+airbnb,HMPTABFX5T,Surya: Luxury Villa with kitchen and private pool,Robin Mason,2023-06-27,2023-07-02,5,10625000.0,0.0,1875000.0,0.0,12500000.0,0.0,12500000.0,1875000.0
+airbnb,HMFSQ2KKTK,Lakshmi: Luxury 2 bedroom villa,Shilpi Johar,2023-06-23,2023-06-26,3,13938999.39,2761499.39,1972500.0,0.0,13150000.0,400000.0,12750000.0,1972500.0
+airbnb,HMKMFKYXAD,Chandra: Entire villa w/ private pool and kitchen,Logan Cornett,2023-06-20,2023-06-23,3,8373995.62,1658995.62,1185000.0,0.0,7900000.0,400000.0,7500000.0,1185000.0
+airbnb,HMM82FZHPQ,Lakshmi: Luxury 2 bedroom villa,Alex Pantorilla,2023-06-17,2023-06-21,4,16416647.72,3252272.72,2323125.0,0.0,15487500.0,400000.0,15087500.0,2323125.0
+airbnb,HMS4D54FAH,Jala: Entire villa with private pool and kitchen,Lloyd Falter,2023-06-15,2023-06-18,3,5459403.82,0.0,982500.0,108096.17999999993,6550000.0,400000.0,6150000.0,1090596.18
+airbnb,HM3QYDP3J9,Lakshmi: Luxury 2 bedroom villa,Esra Bakhit,2023-06-13,2023-06-16,3,13939025.69,2761525.69,1972500.0,0.0,13150000.0,400000.0,12750000.0,1972500.0
+airbnb,HMK48SPQYZ,Chandra: Entire villa w/ private pool and kitchen,Adriano Torrigiani,2023-06-11,2023-06-13,2,5724358.45,1134358.45,810000.0,0.0,5400000.0,400000.0,5000000.0,810000.0
+airbnb,HMMCTABQ2J,Chandra: Entire villa w/ private pool and kitchen,Marcus Horak,2023-06-07,2023-06-11,4,11023979.39,2183979.39,1560000.0,0.0,10400000.0,400000.0,10000000.0,1560000.0
+airbnb,HM42ZRCBEB,Surya: Luxury Villa with kitchen and private pool,Maria Zammit,2023-06-07,2023-06-11,4,11023980.94,2183980.94,1560000.0,0.0,10400000.0,400000.0,10000000.0,1560000.0
+airbnb,HMTEWN8DPP,Lakshmi: Luxury 2 bedroom villa,Marius Negroiu,2023-06-05,2023-06-11,6,24525728.509999998,4858853.51,3470625.0,0.0,23137500.0,400000.0,22737500.0,3470625.0
+airbnb,HM92EXDR2Y,Chandra: Entire villa w/ private pool and kitchen,Alexander Foitzik,2023-06-02,2023-06-06,4,8840000.0,0.0,1560000.0,0.0,10400000.0,400000.0,10000000.0,1560000.0
+airbnb,HMXMCTQE4R,Surya: Luxury Villa with kitchen and private pool,Sheeraz Baig,2023-06-01,2023-06-05,4,11024115.07,2184115.07,1560000.0,0.0,10400000.0,400000.0,10000000.0,1560000.0
+airbnb,HM88FYFSPS,Chandra: Entire villa w/ private pool and kitchen,Emily Lynch,2023-05-31,2023-06-02,2,5723975.93,1133975.93,810000.0,0.0,5400000.0,400000.0,5000000.0,810000.0
+airbnb,HMJQFY9RKN,Chandra: Entire villa w/ private pool and kitchen,Moon Liam,2023-05-29,2023-05-30,1,2676511.09,530261.09,378750.0,0.0,2525000.0,400000.0,2125000.0,378750.0
+airbnb,HMSPAEDSCJ,Chandra: Entire villa w/ private pool and kitchen,Lauren Dunn,2023-05-27,2023-05-29,2,5723969.54,1133969.54,810000.0,0.0,5400000.0,400000.0,5000000.0,810000.0
+airbnb,HMK5DTPCER,Lakshmi: Luxury 2 bedroom villa,Céline Et Damien Carron,2023-05-21,2023-05-24,3,13938616.07,2761116.07,1972500.0,0.0,13150000.0,400000.0,12750000.0,1972500.0
+airbnb,HMJ2SZDHZ4,Chandra: Entire villa w/ private pool and kitchen,Sarthak Khera,2023-05-21,2023-05-24,3,6715000.0,0.0,1185000.0,0.0,7900000.0,400000.0,7500000.0,1185000.0
+airbnb,HMXKHXFKEP,Surya: Luxury Villa with kitchen and private pool,Shawna Depew,2023-05-17,2023-05-21,4,11024093.81,2184093.81,1560000.0,0.0,10400000.0,400000.0,10000000.0,1560000.0
+airbnb,HMKZCA54CF,Chandra: Entire villa w/ private pool and kitchen,Jon Mak,2023-05-14,2023-05-18,4,7480000.0,0.0,1320000.0,0.0,8800000.0,400000.0,8400000.0,1320000.0
+airbnb,HMSZR5EWDT,Lakshmi: Luxury 2 bedroom villa,Sonia Santos Pardo,2023-05-13,2023-05-15,2,9433897.5,1868897.5,1335000.0,0.0,8900000.0,400000.0,8500000.0,1335000.0
+airbnb,HMX2CKTDPQ,Lakshmi: Luxury 2 bedroom villa,Tamas Plutzer,2023-05-05,2023-05-07,2,9434113.11,1869113.11,1335000.0,0.0,8900000.0,400000.0,8500000.0,1335000.0
+airbnb,HMNRZBJYAA,Surya: Luxury Villa with kitchen and private pool,Alison Weeks,2023-05-12,2023-05-17,5,8245000.0,0.0,1455000.0,0.0,9700000.0,400000.0,9300000.0,1455000.0
+airbnb,HMQH8DADYS,Surya: Luxury Villa with kitchen and private pool,Chloe Couwenberghs,2023-05-08,2023-05-12,4,6120000.0,0.0,1080000.0,0.0,7200000.0,400000.0,6800000.0,1080000.0
+airbnb,HMHH2TE9ET,Akasha: 3 bedroom luxury villa,Luv Jain,2023-05-08,2023-05-10,2,11691800.77,2316300.77,1654500.0,0.0,11030000.0,400000.0,10630000.0,1654500.0
+airbnb,HMSD39HX9Q,Chandra: Entire villa w/ private pool and kitchen,Wael Lahmer,2023-05-06,2023-05-09,3,5830037.1,1155037.1,825000.0,0.0,5500000.0,400000.0,5100000.0,825000.0
+airbnb,HMF8JTMSA4,Chandra: Entire villa w/ private pool and kitchen,Caitlin Hawley,2023-05-03,2023-05-06,3,4675000.0,0.0,825000.0,0.0,5500000.0,400000.0,5100000.0,825000.0
+airbnb,HMY5JS3E38,Chandra: Entire villa w/ private pool and kitchen,Marisa Ulibasa,2023-05-02,2023-05-03,1,2226043.75,441043.75,315000.0,0.0,2100000.0,400000.0,1700000.0,315000.0
+airbnb,HM9DJ8MRAP,Chandra: Entire villa w/ private pool and kitchen,Sonia Da Silva,2023-05-01,2023-05-02,1,1750275.35,0.0,315000.0,34724.65000000002,2100000.0,400000.0,1700000.0,349724.65
+airbnb,HMHYNMRS5Z,Jala: Entire villa with private pool and kitchen,Edgar Hatchiguian,2023-05-01,2023-05-04,3,4558026.23,903026.23,645000.0,0.0,4300000.0,400000.0,3900000.0,645000.0
+airbnb,HMJQ3YJSMK,Surya: Luxury Villa with kitchen and private pool,Khalid Sarminy,2023-04-30,2023-05-04,4,6001170.36,0.0,1080000.0,118829.6399999999,7200000.0,400000.0,6800000.0,1198829.64
+airbnb,HMD4YJSD25,Surya: Luxury Villa with kitchen and private pool,David Breidert,2023-04-27,2023-04-29,2,3230000.0,0.0,570000.0,0.0,3800000.0,400000.0,3400000.0,570000.0
+airbnb,HMM2BXCDYW,Akasha: 3 bedroom luxury villa,Daniel Dubin,2023-04-26,2023-04-29,3,17325704.84,3432454.84,2451750.0,0.0,16345000.0,400000.0,15945000.0,2451750.0
+airbnb,HMSWDD4NEW,Chandra: Entire villa w/ private pool and kitchen,Louise Van Der Eijk,2023-04-26,2023-05-01,5,7565000.0,0.0,1335000.0,0.0,8900000.0,400000.0,8500000.0,1335000.0
+airbnb,HMXKSCC599,Surya: Luxury Villa with kitchen and private pool,Clara Spaeth,2023-04-19,2023-04-23,4,6120000.0,0.0,1080000.0,0.0,7200000.0,400000.0,6800000.0,1080000.0
+airbnb,HMS3SPYCHW,Chandra: Entire villa w/ private pool and kitchen,Julia,2023-04-15,2023-04-16,1,722500.0,0.0,127500.0,0.0,850000.0,0.0,850000.0,127500.0
+airbnb,HMBSTMJX2E,Akasha: 3 bedroom luxury villa,Ameera Muhammad,2023-04-14,2023-04-20,6,36771352.230000004,7284852.23,5203500.0,0.0,34690000.0,400000.0,34290000.0,5203500.0
+airbnb,HMFHMRQPP4,Chandra: Entire villa w/ private pool and kitchen,Finn Haythornthwaite,2023-04-12,2023-04-14,2,3230000.0,0.0,570000.0,0.0,3800000.0,400000.0,3400000.0,570000.0
+airbnb,HMMCBRYD49,Jala: Entire villa with private pool and kitchen,Martha Bili,2023-04-11,2023-04-16,5,7313957.52,1448957.52,1035000.0,0.0,6900000.0,400000.0,6500000.0,1035000.0
+airbnb,HM9ANBQR9N,Akasha: 3 bedroom luxury villa,Olivier Toffoli,2023-04-09,2023-04-13,4,28047604.35,5556604.35,3969000.0,0.0,26460000.0,400000.0,26060000.0,3969000.0
+airbnb,HMQHHEB39E,Jala: Entire villa with private pool and kitchen,Ruby Tam,2023-04-07,2023-04-09,2,3180000.27,630000.27,450000.0,0.0,3000000.0,400000.0,2600000.0,450000.0
+airbnb,HM533WP53D,Chandra: Entire villa w/ private pool and kitchen,Ali Kotaich,2023-04-06,2023-04-08,2,3230000.0,0.0,570000.0,0.0,3800000.0,400000.0,3400000.0,570000.0
+airbnb,HMBFZXJKF4,Lakshmi: Luxury 2 bedroom villa,Gigi Jan,2023-04-04,2023-04-07,3,13938862.67,2761362.67,1972500.0,0.0,13150000.0,400000.0,12750000.0,1972500.0
+airbnb,HM3KF2BQME,Chandra: Entire villa w/ private pool and kitchen,Rye Wehi,2023-04-04,2023-04-05,1,2226041.5300000003,441041.53,315000.0,0.0,2100000.0,400000.0,1700000.0,315000.0
+airbnb,HMBYHMFY5R,Surya: Luxury Villa with kitchen and private pool,Kang Wei,2023-04-01,2023-04-02,1,2226078.68,441078.68,315000.0,0.0,2100000.0,400000.0,1700000.0,315000.0
+airbnb,HMS4J4SEQW,Jala: Entire villa with private pool and kitchen,Lisa Carpentier,2023-04-01,2023-04-04,3,4557596.67,902596.67,645000.0,0.0,4300000.0,400000.0,3900000.0,645000.0
+airbnb,HMWNDR44YP,Chandra: Entire villa w/ private pool and kitchen,David Pickard,2023-03-30,2023-04-04,5,7418196.17,0.0,1335000.0,146803.83000000007,8900000.0,400000.0,8500000.0,1481803.83
+airbnb,HMDY3FNWCB,Chandra: Entire villa w/ private pool and kitchen,Tariq Jaber,2023-03-28,2023-03-30,2,3487460.61,690960.61,493500.0,0.0,3290000.0,400000.0,2890000.0,493500.0
+airbnb,HMSBTR8E53,Akasha: 3 bedroom luxury villa,Peruquois Frances,2023-03-25,2023-04-03,9,29501172.32,5844631.92,4174683.5999999996,4.656612873077393e-10,27831224.0,0.0,27831224.0,4174683.6
+airbnb,HM2SCSJQ5B,Chandra: Entire villa w/ private pool and kitchen,Jon Zabala,2023-03-25,2023-03-28,3,4675000.0,0.0,825000.0,0.0,5500000.0,400000.0,5100000.0,825000.0
+airbnb,HMQCPRWXR2,Surya: Luxury Villa with kitchen and private pool,Lori,2023-03-21,2023-03-25,4,2890000.0,0.0,510000.0,0.0,3400000.0,0.0,3400000.0,510000.0
+airbnb,HMXKMNDP5P,Akasha: 3 bedroom luxury villa,Rauch Daniel,2023-03-18,2023-03-24,6,20740000.0,0.0,3660000.0,0.0,24400000.0,0.0,24400000.0,3660000.0
+airbnb,HMHSNS493J,Chandra: Entire villa w/ private pool and kitchen,Shania Clancy,2023-03-17,2023-03-19,2,3230000.0,0.0,570000.0,0.0,3800000.0,400000.0,3400000.0,570000.0
+airbnb,HMFY4BWBB3,Surya: Luxury Villa with kitchen and private pool,Fiona Melville,2023-03-17,2023-03-21,4,6120000.0,0.0,1080000.0,0.0,7200000.0,400000.0,6800000.0,1080000.0
+airbnb,HMETX5K8QS,Surya: Luxury Villa with kitchen and private pool,Manuel Picker,2023-03-11,2023-03-15,4,5903250.0,0.0,1041750.0,0.0,6945000.0,400000.0,6545000.0,1041750.0
+airbnb,HMS2CPX3CH,Chandra: Entire villa w/ private pool and kitchen,Shahira Mustafa,2023-03-10,2023-03-12,2,3230000.0,0.0,570000.0,0.0,3800000.0,400000.0,3400000.0,570000.0
+airbnb,HM5K33JQEE,Surya: Luxury Villa with kitchen and private pool,Thjorven Staade,2023-03-08,2023-03-11,3,4584279.81,0.0,825000.0,90720.18999999994,5500000.0,400000.0,5100000.0,915720.19
+airbnb,HMES5AE3MW,Surya: Luxury Villa with kitchen and private pool,Alisha West,2023-03-05,2023-03-08,3,4584183.25,0.0,825000.0,90816.75,5500000.0,400000.0,5100000.0,915816.75
+airbnb,HMFRYT43B3,Chandra: Entire villa w/ private pool and kitchen,Mason Mitchell,2023-03-04,2023-03-10,6,9010000.0,0.0,1590000.0,0.0,10600000.0,400000.0,10200000.0,1590000.0
+airbnb,HMHY3YYTTF,Surya: Luxury Villa with kitchen and private pool,Ankit Tyagi,2023-03-01,2023-03-04,3,4675000.0,0.0,825000.0,0.0,5500000.0,400000.0,5100000.0,825000.0
+airbnb,HMTZCA53CC,Surya: Luxury Villa with kitchen and private pool,Vionna Vargas,2023-02-26,2023-02-28,2,4590000.0,0.0,810000.0,0.0,5400000.0,400000.0,5000000.0,810000.0
+airbnb,HMSMBQJ8W2,Lakshmi: Luxury 2 bedroom villa,Novita Fahmi,2023-02-22,2023-02-24,2,530115.98,105115.98,75000.0,0.0,500000.0,0.0,500000.0,75000.0
+airbnb,HMYY3CQ4WM,Chandra: Entire villa w/ private pool and kitchen,Dennis Konings,2023-02-22,2023-02-25,3,4584201.24,0.0,825000.0,90798.76000000001,5500000.0,400000.0,5100000.0,915798.76
+airbnb,HMFPPTQ4WR,Surya: Luxury Villa with kitchen and private pool,Ruby Houweling,2023-02-20,2023-02-26,6,8835137.23,0.0,1590000.0,174862.77000000002,10600000.0,400000.0,10200000.0,1764862.77
+airbnb,HMRB9C2WFM,Chandra: Entire villa w/ private pool and kitchen,Kamila Nebeska,2023-02-18,2023-02-22,4,6120000.0,0.0,1080000.0,0.0,7200000.0,400000.0,6800000.0,1080000.0
+airbnb,HMNRBNBZJJ,Chandra: Entire villa w/ private pool and kitchen,Balaji Ramesh,2023-02-11,2023-02-13,2,3167299.29,0.0,570000.0,62700.70999999996,3800000.0,400000.0,3400000.0,632700.71
+airbnb,HME5XRJHDQ,Surya: Luxury Villa with kitchen and private pool,Rahul Saini,2023-02-08,2023-02-11,3,4584250.27,0.0,825000.0,90749.72999999998,5500000.0,400000.0,5100000.0,915749.73
+airbnb,HMKRXJJWNF,Chandra: Entire villa w/ private pool and kitchen,Igor Vasilenko,2023-02-04,2023-02-11,7,10251969.61,0.0,1845000.0,203030.3899999999,12300000.0,400000.0,11900000.0,2048030.39
+airbnb,HMMRSE32PK,Akasha: 3 bedroom luxury villa,Albert Adi Priyatama,2023-02-04,2023-02-05,1,416710.23,0.0,75000.0,8289.770000000004,500000.0,0.0,500000.0,83289.77
+airbnb,HMSZ5RCPFJ,Chandra: Entire villa w/ private pool and kitchen,Isadora Flores,2023-02-03,2023-02-04,1,1785000.0,0.0,315000.0,0.0,2100000.0,400000.0,1700000.0,315000.0
+airbnb,HMTTYXZMWE,Jala: Entire villa with private pool and kitchen,Marina Pcheliakova,2023-02-02,2023-02-11,9,10085392.44,0.0,1815000.0,199607.56000000006,12100000.0,400000.0,11700000.0,2014607.56
+airbnb,HMYRPKJDBM,Surya: Luxury Villa with kitchen and private pool,Siddarth Bala,2023-02-02,2023-02-04,2,3167299.84,0.0,570000.0,62700.16000000003,3800000.0,400000.0,3400000.0,632700.16
+airbnb,HMTCQWYAYS,Chandra: Entire villa w/ private pool and kitchen,Lucie Ducroux,2023-01-31,2023-02-02,2,3230000.0,0.0,570000.0,0.0,3800000.0,400000.0,3400000.0,570000.0
+airbnb,HMPB8T8PC5,Jala: Entire villa with private pool and kitchen,Sofya Fomina,2023-01-30,2023-02-01,2,2500476.01,0.0,450000.0,49523.98999999999,3000000.0,400000.0,2600000.0,499523.99
+airbnb,HMWSE29M29,Chandra: Entire villa w/ private pool and kitchen,Claire DeSantis,2023-01-30,2023-01-31,1,1750327.41,0.0,315000.0,34672.590000000026,2100000.0,400000.0,1700000.0,349672.59
+airbnb,HMTAAKE482,Surya: Luxury Villa with kitchen and private pool,Tessa Drury,2023-01-29,2023-02-01,3,4675000.0,0.0,825000.0,0.0,5500000.0,400000.0,5100000.0,825000.0
+airbnb,HM5ETKX4H4,Chandra: Entire villa w/ private pool and kitchen,Elly Henderson,2023-01-28,2023-01-30,2,3167288.92,0.0,570000.0,62711.07999999996,3800000.0,400000.0,3400000.0,632711.08
+airbnb,HM9QBFQFPP,Surya: Luxury Villa with kitchen and private pool,Yanis Koulouh,2023-01-25,2023-01-27,2,3167713.78,0.0,570000.0,62286.21999999997,3800000.0,400000.0,3400000.0,632286.22
+airbnb,HMNQETCA3E,Chandra: Entire villa w/ private pool and kitchen,Jennifer Herndon,2023-01-24,2023-01-27,3,4584262.6,0.0,825000.0,90737.40000000002,5500000.0,400000.0,5100000.0,915737.4
+airbnb,HMP44HQWAZ,Surya: Luxury Villa with kitchen and private pool,Malcolm Blemand,2023-01-23,2023-01-25,2,3167366.87,0.0,570000.0,62633.130000000005,3800000.0,400000.0,3400000.0,632633.13
+airbnb,HME8DD92TR,Chandra: Entire villa w/ private pool and kitchen,Monica Ivi,2023-01-20,2023-01-24,4,8840000.0,0.0,1560000.0,0.0,10400000.0,400000.0,10000000.0,1560000.0
+airbnb,HME3XKNT5P,Chandra: Entire villa w/ private pool and kitchen,Anna Lofdahl,2023-01-18,2023-01-20,2,3013250.0,0.0,531750.0,0.0,3545000.0,400000.0,3145000.0,531750.0
+airbnb,HMKNSZQXC8,Surya: Luxury Villa with kitchen and private pool,Kerryn Negus,2023-01-15,2023-01-17,2,3167239.42,0.0,570000.0,62760.57999999996,3800000.0,400000.0,3400000.0,632760.58
+airbnb,HM2BPJ3W4Z,Chandra: Entire villa w/ private pool and kitchen,Ananya Singh,2023-01-12,2023-01-15,3,4584250.65,0.0,825000.0,90749.34999999998,5500000.0,400000.0,5100000.0,915749.35
+airbnb,HMZDHNSWES,Jala: Entire villa with private pool and kitchen,Henni Rauchhaupt,2023-01-12,2023-01-17,5,5751157.25,0.0,1035000.0,113842.75,6900000.0,400000.0,6500000.0,1148842.75
+airbnb,HMZZX2FWZ5,Chandra: Entire villa w/ private pool and kitchen,소민 이,2023-01-10,2023-01-12,2,3230000.0,0.0,570000.0,0.0,3800000.0,400000.0,3400000.0,570000.0
+airbnb,HMQ2S8E9NA,Surya: Luxury Villa with kitchen and private pool,Jennifer Fergel,2023-01-10,2023-01-11,1,1445000.0,0.0,255000.0,0.0,1700000.0,0.0,1700000.0,255000.0
+airbnb,HMPHTKEXYJ,Surya: Luxury Villa with kitchen and private pool,Tom Maresch,2023-01-09,2023-01-10,1,1445000.0,0.0,255000.0,0.0,1700000.0,0.0,1700000.0,255000.0
+airbnb,HMB2FRRWR2,Chandra: Entire villa w/ private pool and kitchen,Emily Kearns,2023-01-06,2023-01-08,2,2890000.0,0.0,510000.0,0.0,3400000.0,0.0,3400000.0,510000.0
+airbnb,HMN8FHHASJ,Chandra: Entire villa w/ private pool and kitchen,Ashra Farhat,2023-01-05,2023-01-06,1,1445000.0,0.0,255000.0,0.0,1700000.0,0.0,1700000.0,255000.0
+airbnb,HMYBTCDWES,Surya: Luxury Villa with kitchen and private pool,Sarayu Padmanaban,2023-01-04,2023-01-05,1,1833700.52,0.0,330000.0,36299.47999999998,2200000.0,400000.0,1800000.0,366299.48
+airbnb,HMW23A5Q4M,Chandra: Entire villa w/ private pool and kitchen,Balaje Dhanram,2023-01-04,2023-01-05,1,1445000.0,0.0,255000.0,0.0,1700000.0,0.0,1700000.0,255000.0
+airbnb,HM8MQPR55S,Chandra: Entire villa w/ private pool and kitchen,Balaje Dhanram,2023-01-03,2023-01-04,1,1445000.0,0.0,255000.0,0.0,1700000.0,0.0,1700000.0,255000.0
+airbnb,HMR2ZT3KAP,Surya: Luxury Villa with kitchen and private pool,Carnu,2023-01-02,2023-01-05,3,2295000.0,0.0,405000.0,0.0,2700000.0,0.0,2700000.0,405000.0
+airbnb,HMBXC2P4A5,Chandra: Entire villa w/ private pool and kitchen,Aleksandr Kuryk,2023-01-02,2023-01-03,1,1537750.93,0.0,276750.0,30499.070000000007,1845000.0,400000.0,1445000.0,307249.07
+airbnb,HMMMKB4PCZ,Surya: Luxury Villa with kitchen and private pool,Kaja Strøhm,2023-01-01,2023-01-02,1,1750342.15,0.0,315000.0,34657.84999999998,2100000.0,400000.0,1700000.0,349657.85
+airbnb,HMQNZNTA3E,Jala: Entire villa with private pool and kitchen,Alyssa Preval,2023-01-01,2023-01-03,2,2210000.0,0.0,390000.0,0.0,2600000.0,0.0,2600000.0,390000.0
+airbnb,HMBJB9X4MW,Chandra: Entire villa w/ private pool and kitchen,Georgia Zentrich,2023-01-01,2023-01-02,1,1445000.0,0.0,255000.0,0.0,1700000.0,0.0,1700000.0,255000.0
+airbnb,HMJZNQKRT9,Chandra: Entire villa w/ private pool and kitchen,Kaja Strøhm,2022-12-31,2023-01-01,1,1445000.0,0.0,255000.0,0.0,1700000.0,0.0,1700000.0,255000.0
+airbnb,HMA8BMS38Q,Chandra: Entire villa w/ private pool and kitchen,Daniel Jaramillo,2022-12-28,2022-12-31,3,4335000.0,0.0,765000.0,0.0,5100000.0,0.0,5100000.0,765000.0
+airbnb,HMKK83P4FK,Chandra: Entire villa w/ private pool and kitchen,Melanie Weiss,2022-12-25,2022-12-28,3,4335000.0,0.0,765000.0,0.0,5100000.0,0.0,5100000.0,765000.0
+airbnb,HMFN9WTYHD,Chandra: Entire villa w/ private pool and kitchen,Laura Seire,2022-12-24,2022-12-25,1,1750271.35,0.0,315000.0,34728.65000000002,2100000.0,400000.0,1700000.0,349728.65
+airbnb,HMTWMP9M3Y,Surya: Luxury Villa with kitchen and private pool,Khrystyna Kozlova,2022-12-23,2022-12-27,4,5780000.0,0.0,1020000.0,0.0,6800000.0,0.0,6800000.0,1020000.0
+airbnb,HM2ZWTQHYA,Surya: Luxury Villa with kitchen and private pool,Денис Харламов,2022-12-21,2022-12-22,1,1537865.86,0.0,276750.0,30384.140000000014,1845000.0,400000.0,1445000.0,307134.14
+airbnb,HMPWMNWBTQ,Chandra: Entire villa w/ private pool and kitchen,Gunjan Shah,2022-12-20,2022-12-24,4,5780000.0,0.0,1020000.0,0.0,6800000.0,0.0,6800000.0,1020000.0
+airbnb,HMYNJT4ZFH,Surya: Luxury Villa with kitchen and private pool,Promita Daniel,2022-12-19,2022-12-20,1,1445000.0,0.0,255000.0,0.0,1700000.0,0.0,1700000.0,255000.0
+airbnb,HM9SENE9YX,Chandra: Entire villa w/ private pool and kitchen,Katie Coates,2022-12-17,2022-12-20,3,4335000.0,0.0,765000.0,0.0,5100000.0,0.0,5100000.0,765000.0
+airbnb,HMPBSHQYPX,Surya: Luxury Villa with kitchen and private pool,Aakanksha Aakanksha,2022-12-17,2022-12-19,2,2890000.0,0.0,510000.0,0.0,3400000.0,0.0,3400000.0,510000.0
+airbnb,HMA8JKWEDY,Surya: Luxury Villa with kitchen and private pool,Elena Merget,2022-12-16,2022-12-17,1,1870000.0,0.0,330000.0,0.0,2200000.0,400000.0,1800000.0,330000.0
+airbnb,HM2KBRJ5DA,Chandra: Entire villa w/ private pool and kitchen,Demirbilek Halep Melek,2022-12-15,2022-12-17,2,2890000.0,0.0,510000.0,0.0,3400000.0,0.0,3400000.0,510000.0
+airbnb,HMAKH5NQME,Jala: Entire villa with private pool and kitchen,Max Pfeil,2022-12-09,2022-12-12,3,2586032.69,0.0,465405.0,51262.31,3102700.0,400000.0,2702700.0,516667.31
+airbnb,HMDBPSZBYN,Surya: Luxury Villa with kitchen and private pool,Katrin Blattner,2022-12-08,2022-12-16,8,10404000.0,0.0,1836000.0,0.0,12240000.0,0.0,12240000.0,1836000.0
+airbnb,HM9EJT8HDK,Chandra: Entire villa w/ private pool and kitchen,Rumbi Changamire,2022-12-08,2022-12-13,5,7225000.0,0.0,1275000.0,0.0,8500000.0,0.0,8500000.0,1275000.0
+airbnb,HMCBKPAN3N,Surya: Luxury Villa with kitchen and private pool,Isabella Conner,2022-12-05,2022-12-08,3,4335000.0,0.0,765000.0,0.0,5100000.0,0.0,5100000.0,765000.0
+airbnb,HM4XZKJZSF,Surya: Luxury Villa with kitchen and private pool,Mayank Jain,2022-12-01,2022-12-05,4,5780000.0,0.0,1020000.0,0.0,6800000.0,0.0,6800000.0,1020000.0
+airbnb,HMB4T8KBJF,Surya: Luxury Villa with kitchen and private pool,Kierstin McQuown,2022-11-28,2022-12-01,3,2613085.47,0.0,461132.73000000004,-5.820766091346741e-11,3074218.2,0.0,3074218.2,461132.73
+airbnb,HMRKSM4FH5,Chandra: Entire villa w/ private pool and kitchen,Briana Espinosa,2022-11-28,2022-12-01,3,2613085.47,0.0,461132.73000000004,-5.820766091346741e-11,3074218.2,0.0,3074218.2,461132.73
+airbnb,HMF8STETZQ,Jala: Entire villa with private pool and kitchen,Lena Ott,2022-11-28,2022-12-01,3,2591593.23,0.0,457339.9815,-0.001500000013038516,3048933.21,400000.0,2648933.21,457339.98
+airbnb,HM43TJFA55,Chandra: Entire villa w/ private pool and kitchen,Dan Malana,2022-11-26,2022-11-28,2,2890000.0,0.0,510000.0,0.0,3400000.0,0.0,3400000.0,510000.0
+airbnb,HMPP2H58JQ,Surya: Luxury Villa with kitchen and private pool,Tara Flora,2022-11-25,2022-11-28,3,3659250.0,0.0,645750.0,0.0,4305000.0,0.0,4305000.0,645750.0
+airbnb,HMKZ3NEY24,Jala: Entire villa with private pool and kitchen,Alexander Santos,2022-11-25,2022-11-27,2,1580065.42,0.0,278835.075,0.005000000004656613,1858900.5,0.0,1858900.5,278835.08
+airbnb,HMFY33HYT3,Chandra: Entire villa w/ private pool and kitchen,Skyler Rietberg,2022-11-25,2022-11-26,1,1445000.0,0.0,255000.0,0.0,1700000.0,0.0,1700000.0,255000.0
+airbnb,HMPAE8Q9E5,Chandra: Entire villa w/ private pool and kitchen,Alexander Santos,2022-11-24,2022-11-25,1,850000.0,0.0,150000.0,0.0,1000000.0,0.0,1000000.0,150000.0
+airbnb,HM2YHCCERE,Surya: Luxury Villa with kitchen and private pool,My Nguyen,2022-11-23,2022-11-25,2,2890000.0,0.0,510000.0,0.0,3400000.0,0.0,3400000.0,510000.0
+airbnb,HMT32KNBNW,Jala: Entire villa with private pool and kitchen,Frances Waterhouse,2022-11-23,2022-11-25,2,1920065.42,0.0,338835.075,0.005000000004656613,2258900.5,400000.0,1858900.5,338835.08
+airbnb,HMMM32FZZP,Chandra: Entire villa w/ private pool and kitchen,Cat Tomlinson,2022-11-22,2022-11-24,2,1764939.66,0.0,311459.93999999994,5.820766091346741e-11,2076399.5999999999,0.0,2076399.5999999999,311459.94
+airbnb,HMBYNWQ9QW,Chandra: Entire villa w/ private pool and kitchen,Gwyneth Santiago,2022-11-21,2022-11-22,1,1445000.0,0.0,255000.0,0.0,1700000.0,0.0,1700000.0,255000.0
+airbnb,HMZJTPZAZE,Jala: Entire villa with private pool and kitchen,Nabil Rachidi,2022-11-19,2022-11-20,1,1105000.0,0.0,195000.0,0.0,1300000.0,0.0,1300000.0,195000.0
+airbnb,HMKRNEM3WT,Surya: Luxury Villa with kitchen and private pool,Martin Rößler,2022-11-18,2022-11-21,3,4335000.0,0.0,765000.0,0.0,5100000.0,0.0,5100000.0,765000.0
+airbnb,HMMYZFRKES,Chandra: Entire villa w/ private pool and kitchen,Emma Smith,2022-11-16,2022-11-21,5,6863750.0,0.0,1211250.0,0.0,8075000.0,0.0,8075000.0,1211250.0
+airbnb,HMEQDS8RXP,Surya: Luxury Villa with kitchen and private pool,Yarinda Berger,2022-11-14,2022-11-17,3,3655000.0,0.0,645000.0,0.0,4300000.0,0.0,4300000.0,645000.0
+airbnb,HMCMP29CQY,Surya: Luxury Villa with kitchen and private pool,Jason Koreen,2022-11-10,2022-11-14,4,4420000.0,0.0,780000.0,0.0,5200000.0,0.0,5200000.0,780000.0
+airbnb,HMCDEHDXDA,Jala: Entire villa with private pool and kitchen,Tracey Johnson,2022-11-09,2022-11-16,7,5355000.0,0.0,945000.0,0.0,6300000.0,0.0,6300000.0,945000.0
+airbnb,HMDJBCF2AJ,Surya: Luxury Villa with kitchen and private pool,Kübra Jachimczak,2022-11-09,2022-11-10,1,1105000.0,0.0,195000.0,0.0,1300000.0,0.0,1300000.0,195000.0
+airbnb,HM3YTMKC35,Surya: Luxury Villa with kitchen and private pool,Michael Keith Tubiera,2022-11-07,2022-11-09,2,2210000.0,0.0,390000.0,0.0,2600000.0,0.0,2600000.0,390000.0
+airbnb,HMEWCKMPAR,Jala: Entire villa with private pool and kitchen,Khushboo Malhan,2022-11-07,2022-11-09,2,1700000.0,0.0,300000.0,0.0,2000000.0,0.0,2000000.0,300000.0
+airbnb,HM9CY3JKAQ,Surya: Luxury Villa with kitchen and private pool,Ethan Lee,2022-11-06,2022-11-07,1,1105000.0,0.0,195000.0,0.0,1300000.0,0.0,1300000.0,195000.0
+airbnb,HMBPBKWENB,Surya: Luxury Villa with kitchen and private pool,Théo Busa,2022-11-04,2022-11-05,1,1105000.0,0.0,195000.0,0.0,1300000.0,0.0,1300000.0,195000.0
+airbnb,HMH5M3D5HA,Surya: Luxury Villa with kitchen and private pool,Vladyslav Movchan,2022-11-02,2022-11-03,1,1105000.0,0.0,195000.0,0.0,1300000.0,0.0,1300000.0,195000.0
+airbnb,HMF3PJCZPC,Surya: Luxury Villa with kitchen and private pool,Jodhi Inglis,2022-10-31,2022-11-02,2,2210000.0,0.0,390000.0,0.0,2600000.0,0.0,2600000.0,390000.0
+airbnb,HMCYHCWQ3Q,Jala: Entire villa with private pool and kitchen,Axelle Le Hen,2022-10-28,2022-10-30,2,1700000.0,0.0,300000.0,0.0,2000000.0,0.0,2000000.0,300000.0
+airbnb,HMTAXP9PT9,Chandra: Entire villa w/ private pool and kitchen,Khalil Benhammou,2022-10-24,2022-10-26,2,2550000.0,0.0,450000.0,0.0,3000000.0,0.0,3000000.0,450000.0
+airbnb,HM3KWDDTMK,Chandra: Entire villa w/ private pool and kitchen,Conrad Smith,2022-10-26,2022-11-01,6,7267500.0,0.0,1282500.0,0.0,8550000.0,0.0,8550000.0,1282500.0
+airbnb,HMR95JTYQY,Surya: Luxury Villa with kitchen and private pool,Celina Santana,2022-10-26,2022-10-31,5,5525000.0,0.0,975000.0,0.0,6500000.0,0.0,6500000.0,975000.0
+airbnb,HMQHEYSJNW,Jala: Entire villa with private pool and kitchen,Desi Mulyanti,2022-10-21,2022-10-22,1,850000.0,0.0,150000.0,0.0,1000000.0,0.0,1000000.0,150000.0
+airbnb,HMFBEND9AC,Surya: Luxury Villa with kitchen and private pool,Lorraine And Marco Hof,2022-10-21,2022-10-23,2,5525000.0,0.0,975000.0,0.0,6500000.0,0.0,6500000.0,975000.0
+airbnb,HMBF5RQBJ3,Surya: Luxury Villa with kitchen and private pool,Alice Sonnette,2022-10-20,2022-10-21,1,1105000.0,0.0,195000.0,0.0,1300000.0,0.0,1300000.0,195000.0
+airbnb,HMKT8WXWQP,Jala: Entire villa with private pool and kitchen,Ruggero Gonzalez,2022-10-19,2022-10-21,2,1572500.0,0.0,277500.0,0.0,1850000.0,0.0,1850000.0,277500.0
+airbnb,HMXT8NQHCC,Surya: Luxury Villa with kitchen and private pool,Grace Cotter,2022-10-18,2022-10-20,2,2210000.0,0.0,390000.0,0.0,2600000.0,0.0,2600000.0,390000.0
+airbnb,HMYZHEXYHT,Chandra: Entire villa w/ private pool and kitchen,Alexandra Oşan,2022-10-17,2022-10-19,2,2550000.0,0.0,450000.0,0.0,3000000.0,0.0,3000000.0,450000.0
+airbnb,HMQAR5KFSX,Surya: Luxury Villa with kitchen and private pool,Reese Murray,2022-10-16,2022-10-18,2,2210000.0,0.0,390000.0,0.0,2600000.0,0.0,2600000.0,390000.0
+airbnb,HMYBRRW3SX,Chandra: Entire villa w/ private pool and kitchen,Sara Loh,2022-10-14,2022-10-17,3,4143750.0,0.0,731250.0,0.0,4875000.0,0.0,4875000.0,731250.0
+airbnb,HM4A2TDT3Q,Chandra: Entire villa w/ private pool and kitchen,Holly,2022-10-12,2022-10-14,2,2550000.0,0.0,450000.0,0.0,3000000.0,0.0,3000000.0,450000.0
+airbnb,HMTR53R4DX,Surya: Luxury Villa with kitchen and private pool,Hazar Ayari,2022-10-12,2022-10-15,3,3315000.0,0.0,585000.0,0.0,3900000.0,0.0,3900000.0,585000.0
+airbnb,HMATJ3X9YC,Chandra: Entire villa w/ private pool and kitchen,Cheryl Slade,2022-10-12,2022-10-13,1,1083750.0,0.0,191250.0,0.0,1275000.0,0.0,1275000.0,191250.0
+airbnb,HMQCXY3F4T,Chandra: Entire villa w/ private pool and kitchen,Joanna Kańka,2022-10-07,2022-10-10,3,4143750.0,0.0,731250.0,0.0,4875000.0,0.0,4875000.0,731250.0
+airbnb,HMJ24FPW9J,Chandra: Entire villa w/ private pool and kitchen,Christian Schmatz,2022-10-05,2022-10-07,2,2422500.0,0.0,427500.0,0.0,2850000.0,0.0,2850000.0,427500.0
+airbnb,HMC4DM4SR3,Chandra: Entire villa w/ private pool and kitchen,Former member ,2022-10-01,2022-10-05,4,4845000.0,0.0,855000.0,0.0,5700000.0,0.0,5700000.0,855000.0
+airbnb,HMH2NDNHNS,Chandra: Entire villa w/ private pool and kitchen,Tanmoy Mahajan,2022-09-29,2022-10-01,2,2550000.0,0.0,450000.0,0.0,3000000.0,0.0,3000000.0,450000.0
+airbnb,HMDCM3RR9E,Surya: Luxury Villa with kitchen and private pool,Valentine Bachelot,2022-09-29,2022-10-10,11,12809500.0,0.0,2260500.0,0.0,15070000.0,0.0,15070000.0,2260500.0
+airbnb,HMP5YCHCBM,Jala: Entire villa with private pool and kitchen,Charlotte Gosset,2022-09-27,2022-09-28,1,850000.0,0.0,150000.0,0.0,1000000.0,0.0,1000000.0,150000.0
+airbnb,HMKZKH5CWA,Jala: Entire villa with private pool and kitchen,Michael Sosa,2022-09-26,2022-09-27,1,850000.0,0.0,150000.0,0.0,1000000.0,0.0,1000000.0,150000.0
+airbnb,HMEJSHNY3H,Chandra: Entire villa w/ private pool and kitchen,Charlotte Gosset,2022-09-26,2022-09-27,1,1275000.0,0.0,225000.0,0.0,1500000.0,0.0,1500000.0,225000.0
+airbnb,HM9JNJKHXK,Surya: Luxury Villa with kitchen and private pool,Miguel Alarcón Moya,2022-09-22,2022-09-29,7,8151500.0,0.0,1438500.0,0.0,9590000.0,0.0,9590000.0,1438500.0
+airbnb,HMBXBE3W5E,Surya: Luxury Villa with kitchen and private pool,Sarah Glasemann,2022-09-21,2022-09-22,1,1105000.0,0.0,195000.0,0.0,1300000.0,0.0,1300000.0,195000.0
+airbnb,HMPFP9JJEJ,Chandra: Entire villa w/ private pool and kitchen,Kah Yan Chan,2022-09-20,2022-09-22,2,2550000.0,0.0,450000.0,0.0,3000000.0,0.0,3000000.0,450000.0
+airbnb,HMD2HHBQ9J,Jala: Entire villa with private pool and kitchen,Chloe Hayes,2022-09-19,2022-09-20,1,850000.0,0.0,150000.0,0.0,1000000.0,0.0,1000000.0,150000.0
+airbnb,HMQ3PESAHP,Chandra: Entire villa w/ private pool and kitchen,Amin Hansali,2022-09-19,2022-09-20,1,1275000.0,0.0,225000.0,0.0,1500000.0,0.0,1500000.0,225000.0
+airbnb,HMBDRJT292,Jala: Entire villa with private pool and kitchen,Alexey Trubetskoy,2022-09-17,2022-09-18,1,850000.0,0.0,150000.0,0.0,1000000.0,0.0,1000000.0,150000.0
+airbnb,HM9XRSCFFR,Surya: Luxury Villa with kitchen and private pool,Melissa Bedford,2022-09-17,2022-09-21,4,4420000.0,0.0,780000.0,0.0,5200000.0,0.0,5200000.0,780000.0
+airbnb,HMSFHJ3FTN,Surya: Luxury Villa with kitchen and private pool,Sheena Ramirez,2022-09-15,2022-09-17,2,2439500.0,0.0,430500.0,0.0,2870000.0,0.0,2870000.0,430500.0
+airbnb,HMQ2WH559X,Jala: Entire villa with private pool and kitchen,Julien Izard,2022-09-15,2022-09-17,2,1700000.0,0.0,300000.0,0.0,2000000.0,0.0,2000000.0,300000.0
+airbnb,HMS8TAAHXB,Chandra: Entire villa w/ private pool and kitchen,Florian Tiedemann,2022-09-15,2022-09-19,4,5588750.0,0.0,986250.0,0.0,6575000.0,0.0,6575000.0,986250.0
+airbnb,HMJSFDY3NT,Surya: Luxury Villa with kitchen and private pool,Marina Shutova,2022-09-14,2022-09-15,1,1105000.0,0.0,195000.0,0.0,1300000.0,0.0,1300000.0,195000.0
+airbnb,HM4YB9BH5S,Surya: Luxury Villa with kitchen and private pool,Damien Pascal,2022-09-13,2022-09-14,1,1105000.0,0.0,195000.0,0.0,1300000.0,0.0,1300000.0,195000.0
+airbnb,HMN3BP8MTZ,Jala: Entire villa with private pool and kitchen,Elisa Steiner,2022-09-11,2022-09-15,4,3400000.0,0.0,600000.0,0.0,4000000.0,0.0,4000000.0,600000.0
+airbnb,HMMJM4M9RH,Surya: Luxury Villa with kitchen and private pool,Max Gräfe,2022-09-11,2022-09-13,2,2210000.0,0.0,390000.0,0.0,2600000.0,0.0,2600000.0,390000.0
+airbnb,HM45C2QADS,Surya: Luxury Villa with kitchen and private pool,Vincent Kowalski,2022-09-10,2022-09-11,1,1105000.0,0.0,195000.0,0.0,1300000.0,0.0,1300000.0,195000.0
+airbnb,HMYQX9PD3A,Chandra: Entire villa w/ private pool and kitchen,Amit Beluli,2022-09-02,2022-09-03,1,1083750.0,0.0,191250.0,0.0,1275000.0,0.0,1275000.0,191250.0
+airbnb,HMJSQHXNWH,Surya: Luxury Villa with kitchen and private pool,Naomi Van Der Schleij,2022-08-31,2022-09-01,1,1049750.0,0.0,185250.0,0.0,1235000.0,0.0,1235000.0,185250.0
+airbnb,HM382QYR5B,Surya: Luxury Villa with kitchen and private pool,Remy LeBeau,2022-08-30,2022-08-31,1,1105000.0,0.0,195000.0,0.0,1300000.0,0.0,1300000.0,195000.0
+airbnb,HMJEYKPP54,Chandra: Entire villa w/ private pool and kitchen,Mathis Beignon,2022-08-30,2022-09-02,3,3633750.0,0.0,641250.0,0.0,4275000.0,0.0,4275000.0,641250.0
+airbnb,HMREKB8S3F,Chandra: Entire villa w/ private pool and kitchen,Leonie Van Hunen,2022-08-28,2022-08-29,1,1275000.0,0.0,225000.0,0.0,1500000.0,0.0,1500000.0,225000.0
+airbnb,HM4NEHKE4C,Chandra: Entire villa w/ private pool and kitchen,Nicolas Toulotte,2022-08-26,2022-08-28,2,2422500.0,0.0,427500.0,0.0,2850000.0,0.0,2850000.0,427500.0
+airbnb,HMC4HSC88N,Jala: Entire villa with private pool and kitchen,Carolin Loos,2022-08-25,2022-08-28,3,2422500.0,0.0,427500.0,0.0,2850000.0,0.0,2850000.0,427500.0
+airbnb,HM4388ZRR9,Jala: Entire villa with private pool and kitchen,Pauline Ferreira,2022-08-24,2022-08-25,1,850000.0,0.0,150000.0,0.0,1000000.0,0.0,1000000.0,150000.0
+airbnb,HMKYSEEZAC,Surya: Luxury Villa with kitchen and private pool,Deby Bollig,2022-08-22,2022-08-23,1,1219750.0,0.0,215250.0,0.0,1435000.0,0.0,1435000.0,215250.0
+airbnb,HMF3Q4HKCK,Surya: Luxury Villa with kitchen and private pool,Julia Jones,2022-08-21,2022-08-22,1,1105000.0,0.0,195000.0,0.0,1300000.0,0.0,1300000.0,195000.0
+airbnb,HM3TCKFX8W,Jala: Entire villa with private pool and kitchen,Alex Seidl,2022-08-18,2022-08-19,1,850000.0,0.0,150000.0,0.0,1000000.0,0.0,1000000.0,150000.0
+airbnb,HMSJAQ5S53,Chandra: Entire villa w/ private pool and kitchen,Josh Croot,2022-08-15,2022-08-18,3,4143750.0,0.0,731250.0,0.0,4875000.0,0.0,4875000.0,731250.0
+airbnb,HM32X8FWXB,Surya: Luxury Villa with kitchen and private pool,Marine Mouchlack,2022-08-14,2022-08-21,7,8151500.0,0.0,1438500.0,0.0,9590000.0,0.0,9590000.0,1438500.0
+airbnb,HMA9BJKJRZ,Surya: Luxury Villa with kitchen and private pool,Dani Redondo,2022-08-13,2022-08-14,1,1105000.0,0.0,195000.0,0.0,1300000.0,0.0,1300000.0,195000.0
+airbnb,HM3CCCH5FB,Chandra: Entire villa w/ private pool and kitchen,Jessie Michel,2022-08-13,2022-08-15,2,2422500.0,0.0,427500.0,0.0,2850000.0,0.0,2850000.0,427500.0
+airbnb,HMNH4RTH49,Chandra: Entire villa w/ private pool and kitchen,Abhiman Kalu,2022-08-12,2022-08-13,1,1211250.0,0.0,213750.0,0.0,1425000.0,0.0,1425000.0,213750.0
+airbnb,HM35QCPC8R,Surya: Luxury Villa with kitchen and private pool,Pauline Migliore,2022-08-11,2022-08-13,2,2439500.0,0.0,430500.0,0.0,2870000.0,0.0,2870000.0,430500.0
+airbnb,HMRFRPEJXR,Jala: Entire villa with private pool and kitchen,Abhiman Kalu,2022-08-08,2022-08-10,2,1700000.0,0.0,300000.0,0.0,2000000.0,0.0,2000000.0,300000.0
+airbnb,HMPKQBBDBC,Chandra: Entire villa w/ private pool and kitchen,Svenja Priggert,2022-08-07,2022-08-11,4,4879000.0,0.0,861000.0,0.0,5740000.0,0.0,5740000.0,861000.0
+airbnb,HMPYQNBNWW,Chandra: Entire villa w/ private pool and kitchen,Alina Jessica Herzog,2022-08-05,2022-08-07,2,2439500.0,0.0,430500.0,0.0,2870000.0,0.0,2870000.0,430500.0
+airbnb,HMFSHHMQRJ,Chandra: Entire villa w/ private pool and kitchen,Becky Edmonds,2022-08-03,2022-08-05,2,2422500.0,0.0,427500.0,0.0,2850000.0,0.0,2850000.0,427500.0
+airbnb,HMEAJQ8JNJ,Chandra: Entire villa w/ private pool and kitchen,Amelie Amann,2022-08-02,2022-08-03,1,1083750.0,0.0,191250.0,0.0,1275000.0,0.0,1275000.0,191250.0
+airbnb,HMEKXBP8C5,Chandra: Entire villa w/ private pool and kitchen,Yardena Witztum-Picard,2022-07-31,2022-08-02,2,2439500.0,0.0,430500.0,0.0,2870000.0,0.0,2870000.0,430500.0
+airbnb,HMCWPWTNPS,Surya: Luxury Villa with kitchen and private pool,Betül Arabacı,2022-07-31,2022-08-04,4,2431663.0,0.0,429117.0,0.0,2860780.0,0.0,2860780.0,429117.0
+airbnb,HM5TN4ZBEP,Jala: Entire villa with private pool and kitchen,Ankita Deshmukh,2022-07-30,2022-07-31,1,850000.0,0.0,150000.0,0.0,1000000.0,0.0,1000000.0,150000.0
+airbnb,HMBMPSSF5F,Chandra: Entire villa w/ private pool and kitchen,Arlio Sugiyarto,2022-07-29,2022-07-31,2,2550000.0,0.0,450000.0,0.0,3000000.0,0.0,3000000.0,450000.0
+airbnb,HMCMCZSQJ8,Surya: Luxury Villa with kitchen and private pool,Johanna Kalfon,2022-07-27,2022-07-31,4,4879000.0,0.0,861000.0,0.0,5740000.0,0.0,5740000.0,861000.0
+airbnb,HMBJE3DHWC,Chandra: Entire villa w/ private pool and kitchen,Kayla Mitchell,2022-07-26,2022-07-28,2,2358750.0,0.0,416250.0,0.0,2775000.0,0.0,2775000.0,416250.0
+airbnb,HMRY8XTBKN,Jala: Entire villa with private pool and kitchen,Chloé Veiga,2022-07-23,2022-07-26,3,2932500.0,0.0,517500.0,0.0,3450000.0,0.0,3450000.0,517500.0
+airbnb,HMPM2MHBJM,Chandra: Entire villa w/ private pool and kitchen,Raphaëlle Santini,2022-07-18,2022-07-22,4,4152250.0,0.0,732750.0,0.0,4885000.0,0.0,4885000.0,732750.0
+airbnb,HMBRHM4HXE,Surya: Luxury Villa with kitchen and private pool,Lise Emeric,2022-07-18,2022-07-22,4,4879000.0,0.0,861000.0,0.0,5740000.0,0.0,5740000.0,861000.0
+airbnb,HMMR5PRFWR,Chandra: Entire villa w/ private pool and kitchen,Lisa Eirenschmalz,2022-07-14,2022-07-18,4,5525000.0,0.0,975000.0,0.0,6500000.0,0.0,6500000.0,975000.0
+airbnb,HM8KZBJQHT,Surya: Luxury Villa with kitchen and private pool,Chris Wawrzyniak,2022-07-12,2022-07-18,6,8338500.0,0.0,1471500.0,0.0,9810000.0,0.0,9810000.0,1471500.0
+airbnb,HMHTJN8R2J,Chandra: Entire villa w/ private pool and kitchen,Dominik Krause,2022-07-11,2022-07-14,3,4143750.0,0.0,731250.0,0.0,4875000.0,0.0,4875000.0,731250.0
+airbnb,HMJ3MKS3QB,Jala: Entire villa with private pool and kitchen,Paul Bareis,2022-07-10,2022-07-11,1,680000.0,0.0,120000.0,0.0,800000.0,0.0,800000.0,120000.0
+airbnb,HMZN2TPNMB,Surya: Luxury Villa with kitchen and private pool,Frederique Koenders,2022-07-09,2022-07-12,3,3659250.0,0.0,645750.0,0.0,4305000.0,0.0,4305000.0,645750.0
+airbnb,HMP9SH952N,Jala: Entire villa with private pool and kitchen,Kirsty Stewart,2022-07-05,2022-07-10,5,4250000.0,0.0,750000.0,0.0,5000000.0,0.0,5000000.0,750000.0
+airbnb,HMYCDCPR38,Chandra: Entire villa w/ private pool and kitchen,Gustav Elling Jørgensen,2022-07-05,2022-07-11,6,7318500.0,0.0,1291500.0,0.0,8610000.0,0.0,8610000.0,1291500.0
+airbnb,HMQA2DKXYS,Chandra: Entire villa w/ private pool and kitchen,Karolína Sobotová,2022-07-03,2022-07-05,2,2422500.0,0.0,427500.0,0.0,2850000.0,0.0,2850000.0,427500.0
+airbnb,HMENE5QHKJ,Chandra: Entire villa w/ private pool and kitchen,Beatriz Da Silva,2022-07-01,2022-07-03,2,2550000.0,0.0,450000.0,0.0,3000000.0,0.0,3000000.0,450000.0
+airbnb,HMMXWZFPY8,Chandra: Entire villa w/ private pool and kitchen,Simran Sethi,2022-06-29,2022-07-01,2,2550000.0,0.0,450000.0,0.0,3000000.0,0.0,3000000.0,450000.0
+airbnb,HMBFEZ3R22,Chandra: Entire villa w/ private pool and kitchen,John DuBose,2022-06-27,2022-06-29,2,127500.0,0.0,22500.0,0.0,150000.0,0.0,150000.0,22500.0
+airbnb,HMM3222TSD,Chandra: Entire villa w/ private pool and kitchen,Komang Wulandari,2022-06-26,2022-06-27,1,1275000.0,0.0,225000.0,0.0,1500000.0,0.0,1500000.0,225000.0
+airbnb,HM5HHD8K3B,Surya: Luxury Villa with kitchen and private pool,Sara Young,2022-06-26,2022-06-27,1,1105000.0,0.0,195000.0,0.0,1300000.0,0.0,1300000.0,195000.0
+airbnb,HMDNEKK8M3,Chandra: Entire villa w/ private pool and kitchen,Brittany Scarfo,2022-06-24,2022-06-26,2,2550000.0,0.0,450000.0,0.0,3000000.0,0.0,3000000.0,450000.0
+airbnb,HM4WB8ACAW,Surya: Luxury Villa with kitchen and private pool,Celina Landero Valenzuela,2022-06-21,2022-06-25,4,4199000.0,0.0,741000.0,0.0,4940000.0,0.0,4940000.0,741000.0
+airbnb,HMSEP9QWRZ,Chandra: Entire villa w/ private pool and kitchen,Alban Canal,2022-06-21,2022-06-24,3,3149250.0,0.0,555750.0,0.0,3705000.0,0.0,3705000.0,555750.0
+airbnb,HMB8EAJRY3,Jala: Entire villa with private pool and kitchen,Claire Schmitt,2022-06-20,2022-06-21,1,850000.0,0.0,150000.0,0.0,1000000.0,0.0,1000000.0,150000.0
+airbnb,HMC9HNTPMS,Surya: Luxury Villa with kitchen and private pool,Nirav,2022-06-18,2022-06-20,2,1657500.0,0.0,292500.0,0.0,1950000.0,0.0,1950000.0,292500.0
+airbnb,HMXFPN2F28,Surya: Luxury Villa with kitchen and private pool,Rebecca May,2022-06-18,2022-06-20,2,1768000.0,0.0,312000.0,0.0,2080000.0,0.0,2080000.0,312000.0
+airbnb,HMXTBEZA9J,Surya: Luxury Villa with kitchen and private pool,Robin Schulz,2022-06-16,2022-06-18,2,2439500.0,0.0,430500.0,0.0,2870000.0,0.0,2870000.0,430500.0
+airbnb,HM3CBW8YKM,Surya: Luxury Villa with kitchen and private pool,Milot Bektashi,2022-06-15,2022-06-16,1,1105000.0,0.0,195000.0,0.0,1300000.0,0.0,1300000.0,195000.0
+airbnb,HMTHQ25BXW,Chandra: Entire villa w/ private pool and kitchen,Anna-Maria Strack,2022-06-13,2022-06-16,3,4143750.0,0.0,731250.0,0.0,4875000.0,0.0,4875000.0,731250.0
+airbnb,HMPSWDKEKD,Surya: Luxury Villa with kitchen and private pool,Vincent Banton,2022-06-13,2022-06-15,2,2439500.0,0.0,430500.0,0.0,2870000.0,0.0,2870000.0,430500.0
+airbnb,HMRJ525QRN,Chandra: Entire villa w/ private pool and kitchen,Amy Pelchat,2022-06-12,2022-06-13,1,1219750.0,0.0,215250.0,0.0,1435000.0,0.0,1435000.0,215250.0
+airbnb,HMT2K4YBTC,Jala: Entire villa with private pool and kitchen,Vincent Banton,2022-06-12,2022-06-13,1,977500.0,0.0,172500.0,0.0,1150000.0,0.0,1150000.0,172500.0
+airbnb,HMZC94TN9W,Surya: Luxury Villa with kitchen and private pool,Felix Schatten,2022-06-07,2022-06-11,4,4420000.0,0.0,780000.0,0.0,5200000.0,0.0,5200000.0,780000.0
+airbnb,HM4KYSRRAS,Chandra: Entire villa w/ private pool and kitchen,Daniela Trujillo Lamberti,2022-06-06,2022-06-12,6,8287500.0,0.0,1462500.0,0.0,9750000.0,0.0,9750000.0,1462500.0
+airbnb,HMNCYFBXRH,Chandra: Entire villa w/ private pool and kitchen,Luisa Krüger,2022-06-05,2022-06-06,1,1275000.0,0.0,225000.0,0.0,1500000.0,0.0,1500000.0,225000.0
+airbnb,HMATCFQPZZ,Chandra: Entire villa w/ private pool and kitchen,Dwi Wahyuni,2022-06-04,2022-06-05,1,1275000.0,0.0,225000.0,0.0,1500000.0,0.0,1500000.0,225000.0
+airbnb,HMDSY2N8DY,Surya: Luxury Villa with kitchen and private pool,Daniel Seehaus,2022-06-03,2022-06-07,4,5559000.0,0.0,981000.0,0.0,6540000.0,0.0,6540000.0,981000.0
+airbnb,HM2XFW5B8F,Surya: Luxury Villa with kitchen and private pool,Nicolas Leal,2022-06-02,2022-06-03,1,1105000.0,0.0,195000.0,0.0,1300000.0,0.0,1300000.0,195000.0
+airbnb,HMF9R8PBEB,Chandra: Entire villa w/ private pool and kitchen,Mary Moussa,2022-06-01,2022-06-04,3,3149250.0,0.0,555750.0,0.0,3705000.0,0.0,3705000.0,555750.0
+airbnb,HMWDDRKHNT,Surya: Luxury Villa with kitchen and private pool,Olivia Benz,2022-05-30,2022-06-02,3,3659250.0,0.0,645750.0,0.0,4305000.0,0.0,4305000.0,645750.0
+airbnb,HMDXW4ABZA,Surya: Luxury Villa with kitchen and private pool,Keagan Pang,2022-05-28,2022-05-29,1,1275000.0,0.0,225000.0,0.0,1500000.0,0.0,1500000.0,225000.0
+airbnb,HMM3NEA92R,Chandra: Entire villa w/ private pool and kitchen,Jasmijn De Gryse,2022-05-24,2022-05-31,7,2621400.0,0.0,462600.0,0.0,3084000.0,0.0,3084000.0,462600.0
+airbnb,HMQFKMXYBQ,Jala: Entire villa with private pool and kitchen,Peter Rønholt,2022-05-24,2022-05-29,5,4250000.0,0.0,750000.0,0.0,5000000.0,0.0,5000000.0,750000.0
+airbnb,HM9EE3DQ42,Chandra: Entire villa w/ private pool and kitchen,Mobina Brady,2022-05-21,2022-05-23,2,2762500.0,0.0,487500.0,0.0,3250000.0,0.0,3250000.0,487500.0
+airbnb,HMSBDS3FKZ,Surya: Luxury Villa with kitchen and private pool,Vaibhav Chamoli,2022-05-21,2022-05-24,3,3825000.0,0.0,675000.0,0.0,4500000.0,0.0,4500000.0,675000.0
+airbnb,HMSE3MC45Q,Chandra: Entire villa w/ private pool and kitchen,Desislava Metodieva,2022-05-18,2022-05-21,3,4335000.0,0.0,765000.0,0.0,5100000.0,0.0,5100000.0,765000.0
+airbnb,HMASCQ8BR4,Chandra: Entire villa w/ private pool and kitchen,Chris Horton,2022-05-16,2022-05-18,2,2890000.0,0.0,510000.0,0.0,3400000.0,0.0,3400000.0,510000.0
+airbnb,HMQB3M9Y23,Chandra: Entire villa w/ private pool and kitchen,Vertkov Aleksey,2022-05-14,2022-05-15,1,1445000.0,0.0,255000.0,0.0,1700000.0,0.0,1700000.0,255000.0
+airbnb,HMNBZAAZKF,Surya: Luxury Villa with kitchen and private pool,Rachel Kaye,2022-05-12,2022-05-13,1,3315000.0,0.0,585000.0,0.0,3900000.0,0.0,3900000.0,585000.0
+airbnb,HMM55NN9AA,Chandra: Entire villa w/ private pool and kitchen,Magdalena Jeckel,2022-05-11,2022-05-13,2,2116500.0,0.0,373500.0,0.0,2490000.0,0.0,2490000.0,373500.0
+airbnb,HMYWASJQA5,Surya: Luxury Villa with kitchen and private pool,Louisa Lin,2022-05-10,2022-05-12,2,2550000.0,0.0,450000.0,0.0,3000000.0,0.0,3000000.0,450000.0
+airbnb,HM45C3S9SM,Jala: Entire villa with private pool and kitchen,Jasmijn De Gryse,2022-05-10,2022-05-24,14,3495200.0,0.0,616800.0,0.0,4112000.0,0.0,4112000.0,616800.0
+airbnb,HM9CKCTTR2,Jala: Entire villa with private pool and kitchen,Heidi Hoppendorff,2022-05-06,2022-05-07,1,680000.0,0.0,120000.0,0.0,800000.0,0.0,800000.0,120000.0
+airbnb,HMJCPCK4ME,Surya: Luxury Villa with kitchen and private pool,Jasmijn De Gryse,2022-05-03,2022-05-10,7,2621400.0,0.0,462600.0,0.0,3084000.0,0.0,3084000.0,462600.0
+airbnb,HMP5E8Y2ED,Chandra: Entire villa w/ private pool and kitchen,Marco Sangiorgi,2022-04-28,2022-04-30,2,2550000.0,0.0,450000.0,0.0,3000000.0,0.0,3000000.0,450000.0
+airbnb,HM2Q3CZQR4,Chandra: Entire villa w/ private pool and kitchen,Sanjay Ajjur Manjunath,2022-04-21,2022-04-25,4,3230000.0,0.0,570000.0,0.0,3800000.0,0.0,3800000.0,570000.0
+airbnb,HM88SAKRMR,Chandra: Entire villa w/ private pool and kitchen,Chris Kiv,2022-04-13,2022-04-17,4,3400000.0,0.0,600000.0,0.0,4000000.0,0.0,4000000.0,600000.0
+airbnb,HM9XTEQCFW,Chandra: Entire villa w/ private pool and kitchen,Aleksandr Grishchun,2022-04-09,2022-04-11,2,1870000.0,0.0,330000.0,0.0,2200000.0,0.0,2200000.0,330000.0
+airbnb,HMHZ8BKQZB,Chandra: Entire villa w/ private pool and kitchen,Dani Dirks,2022-03-05,2022-03-06,1,485000.0,0.0,75000.0,-60000.0,500000.0,0.0,500000.0,15000.0
+airbnb,HMATWMCRTP,Chandra: Entire villa w/ private pool and kitchen,Sarah-Grace Bickle,2022-03-12,2022-04-09,28,9300645.16,0.0,1641290.322,-0.001999999862164259,10941935.48,0.0,10941935.48,1641290.32
+airbnb,HMB2Q9QHXK,Jala: Entire villa with private pool and kitchen,Isabella Kanso,2022-03-14,2022-04-13,30,5100000.0,0.0,900000.0,0.0,6000000.0,0.0,6000000.0,900000.0
+airbnb,HMTQXXNRNH,Surya: Luxury Villa with kitchen and private pool,Alexis Coates,2022-03-22,2022-04-04,13,170000.0,0.0,30000.0,0.0,200000.0,0.0,200000.0,30000.0

@@ -1,0 +1,122 @@
+date,amount_usd,amount_idr,description,category,is_split
+2023-12-01,37.0,,$37 shopping in Vietnam,personal,False
+2023-12-01,,8000000.0,8mm to Ira for salaries/operating expenses,Amarose,False
+2023-12-02,30.0,,$30 pool pass La Vela,personal,False
+2023-12-02,121.0,,$121 at pool,personal,False
+2023-12-02,22.0,,$22 FB ads,Amarose,False
+2023-12-04,,22000000.0,22mm to Ira for salaries/operating expenses,Amarose,False
+2023-12-04,16.0,,$16 Locavore,personal,False
+2023-12-04,30.0,,$30 Bintang animal food,personal,False
+2023-12-04,164.0,,$164 ATM withdrawal Bali,personal,False
+2023-12-04,5.0,,$5 FB ads,Amarose,False
+2023-12-05,6000.0,,"Sent $6000 USD from Akasha to Amarose to pay bills (project, maintenance and operating expenses)",Amarose,False
+2023-12-05,45.0,,$45 wire fee from Whitney,Amarose,False
+2023-12-05,25.0,,$25 wire fee from OCBC,Amarose,False
+2023-12-05,,9194025.0,"9.194.025mm to Ira balance due on operating expenses and salaries, listrik and pool flowers",Amarose,False
+2023-12-05,,6500000.0,6.5mm Ardana salary,Amarose,False
+2023-12-05,,50000000.0,50mm Gusti cafe project,Amarose,False
+2023-12-05,,10000000.0,10mm Riza 2022 tax returns,Amarose,False
+2023-12-05,,3858000.0,"3.858mm Ardana for operating, project and maintenance expenses",Amarose,False
+2023-12-05,134.5,,$269 T-Mobile,Amarose,True
+2023-12-05,134.5,,$269 T-Mobile,law firm,True
+2023-12-05,,3000000.0,3mm ATM withdrawal,personal,False
+2023-12-06,,5671000.0,5.671mm Biznet,Amarose,False
+2023-12-06,,2100000.0,2.1mm Allianz,Amarose,False
+2023-12-06,,,410k pedicure,personal,False
+2023-12-06,12.0,,$12 Spotify,personal,False
+2023-12-07,1537.0,,$1537 airline tix to US,law firm,False
+2023-12-07,5.0,,$5 FB ads,Amarose,False
+2023-12-08,5.0,,$5 FB ads,Amarose,False
+2023-12-08,60.0,,$60 hair/eyelashes,personal,False
+2023-12-08,370.0,,$370 WowBooze,Amarose,False
+2023-12-08,,1923000.0,1.923mm Delta groceries or supplies for photo shoot,Amarose,False
+2023-12-08,,,"205,150k Delta groceries or supplies for photo shoot",Amarose,False
+2023-12-08,,,636k Pepitos groceries or supplies for photo shoot,Amarose,False
+2023-12-08,,,283k Pepitos groceries or supplies for photo shoot,Amarose,False
+2023-12-09,7.0,,$7 FB ads,Amarose,False
+2023-12-09,3.0,,$3 FB ads,Amarose,False
+2023-12-09,,2500000.0,2.5mm partial salary Suzanne for December,Amarose,False
+2023-12-09,,2700000.0,2.7mm Saiful prescriptions,personal,False
+2023-12-11,,1522000.0,1.522mm Ira groceries using Akasha card,Amarose,False
+2023-12-11,14.0,,$14 Apple,personal,False
+2023-12-12,13.0,,$13 lunch,personal,False
+2023-12-12,58.0,,$58 yoga mat,personal,False
+2023-12-12,8.0,,$8 FB Ads,Amarose,False
+2023-12-12,12.0,,$12 Apple,personal,False
+2023-12-12,300.0,,$300 1st American,personal,False
+2023-12-13,,,400k Syl psychic,personal,False
+2023-12-13,,,500k groceries with Akasha card,Amarose,False
+2023-12-13,22.0,,$22 FB ads,Amarose,False
+2023-12-13,,,478k groceries using Akasha card,Amarose,False
+2023-12-13,,,114k supplies using Akasha card,Amarose,False
+2023-12-14,6.0,,$6.50 breakfast,personal,False
+2023-12-14,165.0,,$165 ATM withdrawal for tattoo,personal,False
+2023-12-14,6.0,,$6 FB ads,Amarose,False
+2023-12-14,39.0,,$78 Dropbox,Amarose,True
+2023-12-14,39.0,,$78 Dropbox,law firm,True
+2023-12-15,,23398175.0,Riza taxes/CPA fees 23.398.175mm,Amarose,False
+2023-12-15,,1500000.0,Nyoman photographer 1.5mm deposit for photo shoot,Amarose marketing,False
+2023-12-15,,5000000.0,Pak Agung deposit of 5mm against cafe furniture,Amarose project,False
+2023-12-15,,50000000.0,Gusti 50mm against cafe,Amarose project,False
+2023-12-15,,,600k to Ira cash for Kantu/delivery charge Syl,Amarose,False
+2023-12-15,,33075000.0,33.075mm to Ardana Bali Marmer flooring for cafe,Amarose project,False
+2023-12-15,,4000000.0,Ira 4mm groceries,Amarose op expenses,False
+2023-12-15,,8199999.0,8.2mm Ardana for sand etc to install flooring,Amarose project,False
+2023-12-15,47.0,,$47 drinks,personal,False
+2023-12-15,43.0,,$43 dancing,personal,False
+2023-12-15,6.0,,$6 FB ads,Amarose,False
+2023-12-15,1.0,,$1 FB Ads,Amarose,False
+2023-12-15,1.0,,$1 FB Ads,Amarose,False
+2023-12-15,36.0,,$36 dinner,personal,False
+2023-12-17,103.0,,"$103 cigs, animals",personal,False
+2023-12-17,10.0,,$10 FB ads,Amarose op expenses,False
+2023-12-17,,,S10 FB ads,Amarose op expenses,False
+2023-12-17,13.0,,$13 Efax,law firm,False
+2023-12-19,364.0,,$364 food/laundry etc at Masakali,personal,False
+2023-12-19,18.0,,$18 hair,personal,False
+2023-12-19,,3500000.0,3.5mm to Ira for BEC payment,Amarose project,False
+2023-12-20,8.5,,$17 zoom,Amarose,True
+2023-12-20,8.5,,$17 zoom,law firm,True
+2023-12-20,68.0,,$68 Casetext,lawfirm,False
+2023-12-20,14.0,,$14 Redbull Qatar,personal,False
+2023-12-20,8.0,,$8.88 FB Ads,Amarose,False
+2023-12-20,41.0,,$41 lunch Airport America,personal,False
+2023-12-20,6.0,,$6 Redbulls,personal,False
+2023-12-20,10.0,,$10 Redbulls,personal,False
+2023-12-21,17.0,,$17 Spotify duo,personal,False
+2023-12-21,24.0,,$24 Walgreens,personal,False
+2023-12-21,13.0,,$13 lunch,personal,False
+2023-12-21,70.0,,$70 dad Bday dinner,personal,False
+2023-12-22,1.0,,"$1,000 loan from SJD IOLTA to Amarose",personal loan,False
+2023-12-22,342.0,,$342 Christmas shopping,personal,False
+2023-12-22,45.0,,$45 Whitney wire fees,Amarose,False
+2023-12-22,24.0,,$24 OCBC wire fees,Amarose,False
+2023-12-22,119.0,,$119 Christmas shopping,personal,False
+2023-12-22,20.0,,$20 Amazon Christmas,personal,False
+2023-12-23,60.0,,$60 loan from IOLTA to Amarose,personal,False
+2023-12-23,22.0,,$22 Christmas shopping,personal,False
+2023-12-23,11.0,,$11 Christmas shopping,personal,False
+2023-12-23,65.0,,$65 Christmas shopping,personal,False
+2023-12-24,,22000000.0,22mm to Ira for BEC,Amarose project,False
+2023-12-24,5.0,,$5.56 Facebook Ads,Amarose,False
+2023-12-24,58.0,,$58 groceries,personal,False
+2023-12-26,55.0,,$55 Bintang on Akasha card,Amarose op expenses,False
+2023-12-26,50.0,,$50 loan from Suzanne personal to Akasha,personal,False
+2023-12-26,30.0,,$30 breakfast,personal,False
+2023-12-27,207.0,,$207 dr Paulger,personal,False
+2023-12-27,15.0,,$15 lunch,personal,False
+2023-12-27,,13072000.0,6.5mm to Ira,3.081mm for groceries- Amarose op expense; 3.491mm for balance due to BEC kitchen equipment - Amarose project expense,False
+2023-12-28,,1000000.0,1mm partial salary to Suzanne,Amarose,False
+2023-12-28,,,580k Sunset vet for Mimi,personal,False
+2023-12-28,36.0,,$36 Walgreens,personal,False
+2023-12-28,33.0,,$33 dinner,personal,False
+2023-12-29,682.0,10500000.0,$682.50 (10.5mm) balance of December salary to Suzanne via Akasha ,Amarose,False
+2023-12-29,25.0,,$25 Christmas shopping,personal,False
+2023-12-29,28.0,,$28 Christmas shopping,personal,False
+2023-12-29,170.0,,$170 eyelashes,personal,False
+2023-12-29,25.0,,$25 Walgreens,personal,False
+2023-12-29,30.0,,$30 dinner,personal,False
+2023-12-30,6.5,,$13 Express VPN,Amarose,True
+2023-12-30,6.5,,$13 Express VPN,law firm,True
+2023-12-30,9.0,,$9 lunch,personal,False
+2023-12-30,22.0,,$22 gas,law firm,False

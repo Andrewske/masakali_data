@@ -1,0 +1,75 @@
+Type,"Reference number",Check-in,Checkout,"Guest name","Reservation status",Currency,"Payment status",Amount,Commission,"Payment charge","VAT for online platform services",Net,"Payout date","Payout ID"
+Reservation,3059410468,"Apr 23, 2022","Apr 25, 2022","Anne-kristell Guiot",ok,IDR,by_booking,1800000,-270000,-41400,-34254,1454346,"May 1, 2022",pk48GovMz9FTHO5p
+Reservation,3903383056,"Apr 19, 2022","Apr 20, 2022","Artem Nelipovich",ok,IDR,by_booking,648000,-97200,-14904,-12331,523565,"May 1, 2022",pk48GovMz9FTHO5p
+Reservation,3551951695,"Apr 17, 2022","Apr 19, 2022","MARE GOWD GR",ok,IDR,by_booking,2000000,-300000,-46000,-38060,1615940,"May 1, 2022",pk48GovMz9FTHO5p
+Reservation,2418817562,"Apr 17, 2022","Apr 19, 2022","Konkula Sudeerkumar",ok,IDR,by_booking,2000000,-300000,-46000,-38060,1615940,"May 1, 2022",pk48GovMz9FTHO5p
+Reservation,3834883830,"Jun 6, 2022","Jun 12, 2022","sancamillo danilo",ok,IDR,by_booking,5400000,-810000,-124200,-102762,4363038,"Jun 12, 2022",dRNAAmjBXCBEXrjv
+Reservation,2915487949,"Jun 3, 2022","Jun 6, 2022","Taiane Barbosa Ramaswami",ok,IDR,by_booking,2700000,-405000,-62100,-51381,2181519,"Jun 12, 2022",dRNAAmjBXCBEXrjv
+Reservation,3321440896,"Jun 2, 2022","Jun 3, 2022","Adita Anggarwati",ok,IDR,by_booking,900000,-135000,-20700,-17127,727173,"Jun 12, 2022",dRNAAmjBXCBEXrjv
+Reservation,2900661688,"May 31, 2022","Jun 2, 2022","Craig Steward",ok,IDR,by_booking,1800000,-270000,-41400,-34254,1454346,"Jun 12, 2022",dRNAAmjBXCBEXrjv
+Reservation,3491598683,"May 24, 2022","May 26, 2022","Justyna Berger",ok,IDR,by_booking,2340000,-351000,-53820,-44530,1890650,"Jun 12, 2022",dRNAAmjBXCBEXrjv
+Reservation,2516878591,"May 19, 2022","May 20, 2022","Debora Widyanti",ok,IDR,by_booking,1170000,-175500,-26910,-22265,945325,"Jun 12, 2022",dRNAAmjBXCBEXrjv
+Reservation,3811362276,"May 17, 2022","May 18, 2022",,ok,IDR,by_booking,1170000,-175500,-26910,-22265,945325,"Jun 12, 2022",dRNAAmjBXCBEXrjv
+Reservation,2100443295,"May 14, 2022","May 16, 2022",,ok,IDR,by_booking,2340000,-351000,-53820,-44530,1890650,"Jun 12, 2022",dRNAAmjBXCBEXrjv
+Reservation,3074435725,"May 5, 2022","May 6, 2022","Guitton NoÃ©",ok,IDR,by_booking,900000,-135000,-20700,-17127,727173,"Jun 12, 2022",dRNAAmjBXCBEXrjv
+Reservation,3348091201,"May 3, 2022","May 5, 2022","Felicia Jessica",ok,IDR,by_booking,1800000,-270000,-41400,-34254,1454346,"Jun 12, 2022",dRNAAmjBXCBEXrjv
+Reservation,3710937157,"May 2, 2022","May 3, 2022","ÐÐ°ÑÑÑ Ð©ÐµÑÐ±Ð°ÐºÐ¾Ð²Ð°",ok,IDR,by_booking,1170000,-175500,-26910,-22265,945325,"Jun 12, 2022",dRNAAmjBXCBEXrjv
+Reservation,3503548578,"Apr 30, 2022","May 3, 2022","Ni Ketut Winda Puspita",ok,IDR,by_booking,1944000,-291600,-44712,-36994,1570694,"Jun 12, 2022",dRNAAmjBXCBEXrjv
+Reservation,2228789239,"May 2, 2022","May 3, 2022","Adinda Betsy Anggraeni",ok,IDR,by_booking,900000,-135000,-20700,-17127,727173,"Jun 12, 2022",dRNAAmjBXCBEXrjv
+DB,0703009435,,"May 18, 2022",,,IDR,,,,,,5209791,"Jun 12, 2022",dRNAAmjBXCBEXrjv
+Reservation,2951673129,"Jun 28, 2022","Jul 1, 2022","Naren Bhardwaj",ok,IDR,by_booking,2700000,-405000,-62100,-51381,2181519,"Jul 1, 2022",U9RMSwXziCZtmtYD
+Reservation,3467278636,"Jun 21, 2022","Jun 25, 2022","MÃ©lanie Allibert",ok,IDR,by_booking,3600000,-540000,-82800,-68508,2908692,"Jul 1, 2022",U9RMSwXziCZtmtYD
+Reservation,2621430623,"Jun 17, 2022","Jun 21, 2022","Kristen Blake",ok,IDR,by_booking,6000000,-900000,-138000,-114180,4847820,"Jul 1, 2022",U9RMSwXziCZtmtYD
+Reservation,3558195137,"Jun 13, 2022","Jun 19, 2022","Jacqueline Blenz",ok,IDR,by_booking,5400000,-810000,-124200,-102762,4363038,"Jul 1, 2022",U9RMSwXziCZtmtYD
+Reservation,3494451531,"Jul 16, 2022","Jul 22, 2022","Ebejer Jonathan",ok,IDR,by_booking,5400000,-810000,-124200,-102762,4363038,"Aug 1, 2022",SeFFPFdsed3yLeZB
+Reservation,2839644281,"Jul 15, 2022","Jul 16, 2022","Camille simon",ok,IDR,by_booking,1000000,-150000,-23000,-19030,807970,"Aug 1, 2022",SeFFPFdsed3yLeZB
+Reservation,3335530817,"Jul 12, 2022","Jul 15, 2022","Ida Egholm BrÃ¸ns",ok,IDR,by_booking,3000000,-450000,-69000,-57090,2423910,"Aug 1, 2022",SeFFPFdsed3yLeZB
+Reservation,2866437494,"Jun 28, 2022","Jul 9, 2022","Kaylah Cauchi",ok,IDR,by_booking,12870000,-1930500,-296010,-244916,10398574,"Aug 1, 2022",SeFFPFdsed3yLeZB
+Reservation,3921762732,"Jul 4, 2022","Jul 5, 2022",,ok,IDR,by_booking,1000000,-150000,-23000,-19030,807970,"Aug 1, 2022",SeFFPFdsed3yLeZB
+Reservation,2129454671,"Jul 1, 2022","Jul 4, 2022","Liliana Tudor",ok,IDR,by_booking,3000000,-450000,-69000,-57090,2423910,"Aug 1, 2022",SeFFPFdsed3yLeZB
+Reservation,3551312360,"Aug 25, 2022","Aug 30, 2022","Manuel Cacela Agredano",ok,IDR,by_booking,5850000,-877500,-134550,-111326,4726624,"Sep 1, 2022",6fqo2nCD53XqvCz2
+Reservation,2890116333,"Aug 29, 2022","Aug 30, 2022","Daniela Winter",ok,IDR,by_booking,1500000,-225000,-34500,-28545,1211955,"Sep 1, 2022",6fqo2nCD53XqvCz2
+Reservation,2916282845,"Aug 28, 2022","Aug 29, 2022","Daniela Winter",ok,IDR,by_booking,1000000,-150000,-23000,-19030,807970,"Sep 1, 2022",6fqo2nCD53XqvCz2
+Reservation,3740302677,"Aug 21, 2022","Aug 26, 2022","HÃ©lÃ¨ne Grenouilleau",ok,IDR,by_booking,6750000,-1012500,-155250,-128453,5453797,"Sep 1, 2022",6fqo2nCD53XqvCz2
+Reservation,3822508109,"Aug 23, 2022","Aug 24, 2022","Yogesh Kulkarni",ok,IDR,by_booking,1300000,-195000,-29900,-24739,1050361,"Sep 1, 2022",6fqo2nCD53XqvCz2
+Reservation,3298504209,"Aug 19, 2022","Aug 24, 2022","Africa Martinez",ok,IDR,by_booking,4500000,-675000,-103500,-85635,3635865,"Sep 1, 2022",6fqo2nCD53XqvCz2
+Reservation,2472798045,"Aug 20, 2022","Aug 21, 2022","Morgane JOURDA",ok,IDR,by_booking,1300000,-195000,-29900,-24739,1050361,"Sep 1, 2022",6fqo2nCD53XqvCz2
+Reservation,3885154128,"Aug 18, 2022","Aug 20, 2022","Philippe AZEMAR",ok,IDR,by_booking,3000000,-450000,-69000,-57090,2423910,"Sep 1, 2022",6fqo2nCD53XqvCz2
+Reservation,2621443731,"Aug 14, 2022","Aug 18, 2022","Tim den Besten",ok,IDR,by_booking,4000000,-600000,-92000,-76120,3231880,"Sep 1, 2022",6fqo2nCD53XqvCz2
+Reservation,3417958089,"Aug 13, 2022","Aug 14, 2022","virginie yzebaert",ok,IDR,by_booking,1000000,-150000,-23000,-19030,807970,"Sep 1, 2022",6fqo2nCD53XqvCz2
+Reservation,3600136396,"Aug 10, 2022","Aug 12, 2022","Marina Bernardo",ok,IDR,by_booking,2000000,-300000,-46000,-38060,1615940,"Sep 1, 2022",6fqo2nCD53XqvCz2
+Reservation,2837254835,"Aug 11, 2022","Aug 12, 2022","Beatriz FernÃ¡ndez",ok,IDR,by_booking,1500000,-225000,-34500,-28545,1211955,"Sep 1, 2022",6fqo2nCD53XqvCz2
+Reservation,3734044322,"Jul 31, 2022","Aug 8, 2022","Elisa Paolin",ok,IDR,by_booking,7200000,-1080000,-165600,-137016,5817384,"Sep 1, 2022",6fqo2nCD53XqvCz2
+Reservation,2705489343,"Sep 27, 2022","Sep 29, 2022","Gharam Aljuhani",ok,IDR,by_booking,3000000,-450000,-69000,-57090,2423910,"Oct 1, 2022",bGKZkOv9Qrv4aCZ7
+Reservation,3422662734,"Sep 24, 2022","Sep 26, 2022","Koen Wiesman",ok,IDR,by_booking,3000000,-450000,-69000,-57090,2423910,"Oct 1, 2022",bGKZkOv9Qrv4aCZ7
+Reservation,3189293390,"Sep 21, 2022","Sep 26, 2022","Marcel Beuth",ok,IDR,by_booking,4500000,-675000,-103500,-85635,3635865,"Oct 1, 2022",bGKZkOv9Qrv4aCZ7
+Reservation,3647821724,"Sep 22, 2022","Sep 23, 2022","bram van sever",ok,IDR,by_booking,1500000,-225000,-34500,-28545,1211955,"Oct 1, 2022",bGKZkOv9Qrv4aCZ7
+Reservation,3564509551,"Sep 20, 2022","Sep 21, 2022","oumaima Makhlouf",ok,IDR,by_booking,1000000,-150000,-23000,-19030,807970,"Oct 1, 2022",bGKZkOv9Qrv4aCZ7
+Reservation,2362208339,"Sep 10, 2022","Sep 11, 2022","Antoine TOUPET",ok,IDR,by_booking,1000000,-150000,-23000,-19030,807970,"Oct 1, 2022",bGKZkOv9Qrv4aCZ7
+Reservation,3714659469,"Sep 7, 2022","Sep 10, 2022","soline serrani",ok,IDR,by_booking,3000000,-450000,-69000,-57090,2423910,"Oct 1, 2022",bGKZkOv9Qrv4aCZ7
+Reservation,2370272899,"Sep 3, 2022","Sep 7, 2022","Noemi Bossio",ok,IDR,by_booking,4000000,-600000,-92000,-76120,3231880,"Oct 1, 2022",bGKZkOv9Qrv4aCZ7
+Reservation,2497679637,"Aug 29, 2022","Sep 3, 2022","Ines Jolly",ok,IDR,by_booking,4500000,-675000,-103500,-85635,3635865,"Oct 1, 2022",bGKZkOv9Qrv4aCZ7
+Reservation,3432732177,"Oct 23, 2022","Oct 27, 2022","rhys nicholson",ok,IDR,by_booking,4000000,-600000,-92000,-76120,3231880,"Nov 1, 2022",CqNW6zCD9jJiuRgG
+Reservation,3652483957,"Oct 19, 2022","Oct 24, 2022","HalÃ¡sz Roland",ok,IDR,by_booking,7500000,-1125000,-172500,-142725,6059775,"Nov 1, 2022",CqNW6zCD9jJiuRgG
+Reservation,3909502919,"Oct 22, 2022","Oct 23, 2022","Jeevan Kudhial",ok,IDR,by_booking,1000000,-150000,-23000,-19030,807970,"Nov 1, 2022",CqNW6zCD9jJiuRgG
+Reservation,2483960151,"Oct 14, 2022","Oct 16, 2022","Anbu Kumar",ok,IDR,by_booking,2000000,-300000,-46000,-38060,1615940,"Nov 1, 2022",CqNW6zCD9jJiuRgG
+Reservation,3630453585,"Oct 12, 2022","Oct 14, 2022","Lehar Kothari",ok,IDR,by_booking,2000000,-300000,-46000,-38060,1615940,"Nov 1, 2022",CqNW6zCD9jJiuRgG
+Reservation,3137987090,"Oct 10, 2022","Oct 12, 2022","Rishabh Kothari",ok,IDR,by_booking,2600000,-390000,-59800,-49478,2100722,"Nov 1, 2022",CqNW6zCD9jJiuRgG
+Reservation,2896117850,"Oct 10, 2022","Oct 12, 2022","Laura Milo",ok,IDR,by_booking,2000000,-300000,-46000,-38060,1615940,"Nov 1, 2022",CqNW6zCD9jJiuRgG
+Reservation,2895817830,"Oct 8, 2022","Oct 9, 2022","Floryne Ragobert",ok,IDR,by_booking,1000000,-150000,-23000,-19030,807970,"Nov 1, 2022",CqNW6zCD9jJiuRgG
+Reservation,2383773068,"Oct 7, 2022","Oct 8, 2022","Mathijs Meijer",ok,IDR,by_booking,1000000,-150000,-23000,-19030,807970,"Nov 1, 2022",CqNW6zCD9jJiuRgG
+Reservation,3034629897,"Oct 5, 2022","Oct 7, 2022","Ãlia Castro",ok,IDR,by_booking,2000000,-300000,-46000,-38060,1615940,"Nov 1, 2022",CqNW6zCD9jJiuRgG
+Reservation,2626993227,"Sep 28, 2022","Oct 5, 2022","Torahy Hernandez Jorge",ok,IDR,by_booking,6300000,-945000,-144900,-119889,5090211,"Nov 1, 2022",CqNW6zCD9jJiuRgG
+Reservation,2818256082,"Nov 20, 2022","Nov 23, 2022","Jessica Bettinsoli",ok,IDR,by_booking,3900000,-585000,-89700,-74217,3151083,"Dec 1, 2022",lBMKqVPiOzID30MC
+Reservation,3886001799,"Nov 16, 2022","Nov 18, 2022","Danut Levitchi",ok,IDR,by_booking,2600000,-390000,-59800,-49478,2100722,"Dec 1, 2022",lBMKqVPiOzID30MC
+Reservation,2795271917,"Nov 1, 2022","Nov 15, 2022","Christian Jagode",ok,IDR,by_booking,18900000,-2835000,-434700,-359667,15270633,"Dec 1, 2022",lBMKqVPiOzID30MC
+Reservation,3436100872,"Nov 3, 2022","Nov 7, 2022","Itzbeth Menjivar",ok,IDR,by_booking,4000000,-600000,-92000,-76120,3231880,"Dec 1, 2022",lBMKqVPiOzID30MC
+Reservation,3188736520,"Nov 5, 2022","Nov 6, 2022","Cipta Khairina",ok,IDR,by_booking,1300000,-195000,-29900,-24739,1050361,"Dec 1, 2022",lBMKqVPiOzID30MC
+Reservation,3810093345,"Oct 30, 2022","Nov 3, 2022","Itzbeth Menjivar",ok,IDR,by_booking,4000000,-600000,-92000,-76120,3231880,"Dec 1, 2022",lBMKqVPiOzID30MC
+Reservation,3968564541,"Dec 29, 2022","Dec 31, 2022","Saurabh Aras",ok,IDR,by_booking,2600000,-390000,-59800,-49478,2100722,"Jan 1, 2023",m617EgqmX34ZvGSe
+Reservation,3267970788,"Dec 23, 2022","Dec 27, 2022","Paula Eveans",ok,IDR,by_booking,5200000,-780000,-119600,-98956,4201444,"Jan 1, 2023",m617EgqmX34ZvGSe
+Reservation,2982473193,"Dec 20, 2022","Dec 22, 2022","Katia Veloza",ok,IDR,by_booking,2600000,-390000,-59800,-49478,2100722,"Jan 1, 2023",m617EgqmX34ZvGSe
+Reservation,3415749091,"Dec 20, 2022","Dec 21, 2022","Tashna Oconnor",ok,IDR,by_booking,2100000,-315000,-48300,-39963,1696737,"Jan 1, 2023",m617EgqmX34ZvGSe
+Reservation,3663819019,"Dec 16, 2022","Dec 19, 2022","Danni Oates",ok,IDR,by_booking,3900000,-585000,-89700,-74217,3151083,"Jan 1, 2023",m617EgqmX34ZvGSe
+Reservation,3633426848,"Dec 12, 2022","Dec 15, 2022","Ayano Okabe",ok,IDR,by_booking,3900000,-585000,-89700,-74217,3151083,"Jan 1, 2023",m617EgqmX34ZvGSe
+Reservation,2392529072,"Dec 2, 2022","Dec 7, 2022","Jasmine Porter",ok,IDR,by_booking,8500000,-1275000,-195500,-161755,6867745,"Jan 1, 2023",m617EgqmX34ZvGSe

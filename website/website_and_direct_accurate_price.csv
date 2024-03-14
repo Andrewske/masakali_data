@@ -1,0 +1,59 @@
+id,reference_id,type,check_in,check_out,villa_name,channel_id,channel_name,guest_name,price,commission_included,date,currency
+50526599,,reservation,12/17/2023,12/18/2023,Chandra,1466464,direct,Samson Velpula,2500000.00,0,12/15/2023,idr
+49844888,,reservation,1/3/2024,1/6/2024,surya,1466467,website,Arun Fernandez,483.04,21.55,11/30/2023 20:04,usd
+49294343,,reservation,11/19/2023,11/20/2023,surya,1466464,direct,Ifviana,1389008.00,0,11/19/2023 7:49,idr
+48609827,,modification of booking,11/19/2023,11/28/2023,jala,1466467,website,Adam Vranay,850.43,37.72,11/4/2023 22:12,usd
+48589160,,modification of booking,11/14/2023,11/17/2023,jala,1466467,website,Mahmoud Tohmaz,283.48,8.52,11/4/2023 13:54,usd
+47123257,,reservation,1/1/2024,1/4/2024,Lakshmi,1466476,vrbo,gilbert,1097.50,82.92,10/4/2023,usd
+46636033,,modification of booking,10/11/2023,10/15/2023,lakshmi,1466464,direct,Zeshaan Ali,1119.86,49.57,9/25/2023 21:26,usd
+44622515,,modification of booking,8/26/2023,8/27/2023,lakshmi,1466464,direct,Jill Romine,3220000.00,0,8/18/2023 17:41,idr
+44585471,,modification of booking,10/24/2023,10/28/2023,jala,1466467,website,Brynn Anderson,531.70,15.72,8/17/2023 22:28,usd
+44538353,,modification of booking,9/30/2023,10/1/2023,chandra,1466467,website,Koes Cahyaning,162.10,7.43,8/17/2023 3:08,usd
+44464307,,reservation,8/18/2023,8/20/2023,jala,1466464,direct,Linda Honebeek,4100000.00,0,8/15/2023 17:34,idr
+44380943,,modification of booking,9/10/2023,9/14/2023,akasha,1466467,website,Ingrid Mena Martin,1564.17,45.66,8/14/2023 6:55,usd
+44299331,,reservation,8/13/2023,8/15/2023,akasha,1466464,direct,Lise  Bornes,12000000.00,0,8/12/2023 11:41,idr
+43814405,,reservation,10/24/2023,10/28/2023,surya,1466464,direct,Ahmed,10000000.00,0,8/3/2023 9:02,idr
+43257578,,modification of booking,8/8/2023,8/13/2023,jala,1466464,direct,Matteo Brazzelli,701.46,31.16,7/23/2023 21:12,usd
+39097852,,modification of booking,7/28/2023,7/31/2023,chandra,1466467,website,Akhil Khan,505.97,14.97,5/6/2023 3:16,usd
+38299735,,reservation,5/21/2023,5/24/2023,akasha,1466464,direct,Celine,0.00,0,4/20/2023 16:27,usd
+37859467,,reservation,4/13/2023,4/14/2023,lakshmi,1466464,direct,Alexander,0.00,0,4/12/2023 15:04,usd
+37734271,,reservation,4/14/2023,4/16/2023,chandra,1466464,direct,Martha Bili,480000.00,0,4/10/2023 11:06,idr
+37728997,,modification of booking,6/23/2023,6/27/2023,chandra,1466467,website,Chelsea Kessler,663.83,19.55,4/10/2023 9:00,usd
+37476271,,reservation,4/7/2023,4/8/2023,lakshmi,1466464,direct,Gigi Jan,0.00,0,4/4/2023 15:29,usd
+37392007,,modification of booking,8/16/2023,8/18/2023,jala,1466467,website,Damien Dumas,165.34,6.75,4/2/2023 23:16,usd
+37391956,,modification of booking,8/18/2023,8/19/2023,chandra,1466467,website,Damien Dumas,271.16,10.88,4/2/2023 23:15,usd
+37347475,,modification of booking,4/9/2023,4/11/2023,jala,1466464,direct,Martha Bili,0.00,0,4/2/2023 10:35,usd
+37141267,,modification of booking,7/20/2023,7/22/2023,chandra,1466467,website,Mehmet Erhan Erkoseoglu,222.94,8.99,3/29/2023 9:06,usd
+37045777,,reservation,4/8/2023,4/9/2023,lakshmi,1466464,direct,Sonia Ray,220.00,8.88,3/27/2023 16:01,usd
+36011791,,modification of booking,3/21/2023,3/23/2023,surya,1466464,direct,Iris Aban,3400000.00,0,3/8/2023 4:07,idr
+35742775,,reservation,3/7/2023,3/10/2023,akasha,1466464,direct,Pedro,394.00,0,3/3/2023 6:45,usd
+35572198,,reservation,3/3/2023,3/4/2023,chandra,1466464,direct,Stephanie Wheeler,1650000.00,0,2/28/2023 7:39,idr
+35355706,,modification of booking,8/12/2023,8/15/2023,surya,1466467,website,Elke Barbier,490.05,19.41,2/23/2023 21:55,usd
+34604327,,modification of booking,2/11/2023,2/12/2023,surya,1466464,direct,Agung,1445000.00,0,2/9/2023 4:12,idr
+34579502,,modification of booking,11/13/2023,11/16/2023,surya,1466467,website,Lim Eng Hoo,490.05,19.41,2/8/2023 17:05,usd
+34178525,,reservation,2/2/2023,2/3/2023,chandra,1466464,direct,Lucie Decroix,1700000.00,0,2/1/2023 9:45,idr
+32637676,,modification of booking,1/27/2023,1/29/2023,surya,1466467,website,Can Chi Phu Le,215.42,8.7,1/3/2023 16:09,usd
+31386178,,reservation,12/1/2022,12/2/2022,jala,1466464,direct,Briana Espinosa,990000.00,0,11/29/2022 13:53,idr
+31289941,,reservation,11/27/2022,11/28/2022,jala,1466464,direct,Alexander Santos,1000000.00,0,11/27/2022 3:13,idr
+30963097,,reservation,11/18/2022,11/19/2022,jala,1466464,direct,Fatima,0.00,0,11/18/2022 5:31,usd
+30927925,,reservation,11/17/2022,11/18/2022,surya,1466464,direct,Fatima,870000.00,0,11/17/2022 9:46,idr
+30534403,,modification of booking,6/14/2023,6/18/2023,chandra,1466467,website,Marcus Grazette,633.60,25.01,11/7/2022 19:04,usd
+29475671,,reservation,11/3/2022,11/4/2022,surya,1466464,direct,Holly Lissack,1300000.00,0,10/10/2022 9:52,idr
+26495750,,modification of booking,12/3/2022,12/5/2022,jala,1466467,website,Amrit Mann,136.71,5.63,8/1/2022 15:21,usd
+24736286,,reservation,6/26/2022,6/27/2022,jala,1466467,website,Brittany Scarfo,65.42,2.85,6/21/2022 12:24,usd
+23886470,,modification of booking,12/27/2022,1/1/2023,surya,1466467,website,Baldip Rupra,449.43,17.83,6/3/2022 2:27,usd
+23607461,,reservation,5/29/2022,5/30/2022,jala,1466464,direct,Peter Rønholt,1000000.00,0,5/28/2022 12:05,idr
+23422130,,reservation,5/29/2022,5/30/2022,surya,1466464,direct,Keagen,870000.00,0,5/24/2022 6:02,idr
+22034221,,modification of booking,4/30/2022,5/2/2022,chandra,1466464,direct,Svetlana Aleksander,3000000.00,0,4/23/2022 15:26,idr
+22019968,,reservation,4/27/2022,4/28/2022,chandra,1466464,direct,Sarah-grace Bickle,1500000.00,0,4/23/2022 5:47,idr
+22018312,,modification of booking,4/20/2022,4/23/2022,surya,1466464,direct,Suzanne,3000000.00,0,4/23/2022 1:47,idr
+22004893,BR29273329,modification of booking,4/25/2022,5/2/2022,surya,1571716,tripadvisor,ingalil hubert,311.25,0,4/22/2022 18:35,usd
+21887434,,reservation,4/20/2022,4/21/2022,chandra,1466464,direct,,1500000.00,0,4/20/2022 6:12,idr
+21737863,,modification of booking,8/12/2022,8/13/2022,jala,1466464,direct,Marina Bernardo,1000000.00,0,4/16/2022 4:46,idr
+21536065,,modification of booking,6/11/2022,6/13/2022,surya,1466464,direct,Pradeep Balavinodan,151.39,6.2,4/11/2022 3:54,usd
+21253150,,reservation,7/27/2022,7/30/2022,jala,1466464,direct,Denisa Halszova,0.00,0,4/4/2022 14:42,usd
+21252703,,modification of booking,7/23/2022,7/27/2022,surya,1466464,direct,Denisa Halszova,519.76,20.57,4/4/2022 14:33,usd
+21072178,,modification of booking,5/3/2022,5/10/2022,chandra,1466464,direct,Sethu Madhavan,246.40,7.44,3/31/2022 5:11,usd
+21071548,,reservation,9/3/2022,9/15/2022,chandra,1466464,direct,Evelien Breidel,996.56,39.17,3/31/2022 3:23,usd
+20985271,,reservation,8/4/2022,8/11/2022,surya,1466464,direct,Betül Arabacı,9100000.00,0,3/29/2022 8:27,idr
+20937229,,modification of booking,9/1/2022,9/10/2022,surya,1466464,direct,Alan Mundy,579.68,17.11,3/28/2022 3:36,usd

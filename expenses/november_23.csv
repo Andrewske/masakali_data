@@ -1,0 +1,117 @@
+date,amount_usd,amount_idr,description,category,is_split,rate
+2023-11-01,18.0,286203.0,$18 dinner,personal,False,15900.15487
+2023-11-01,15.0,238502.0,$15 lunch,personal,False,15900.15487
+2023-11-01,125.78,2000000.0,2mm Saiful meds,personal,False,15900.15487
+2023-11-01,1572.31,25000000.0,25mm Ira operating expenses and salaries,Amarose,False,15900.15487
+2023-11-02,707.96,11215000.0,11.215mm to Ira operating expenses,Amarose,False,15841.29368
+2023-11-02,410.32,6500000.0,6.5mm Ardana salary,Amarose,False,15841.29368
+2023-11-02,550.0,8712712.0,$550 JG Creatives,Amarose,False,15841.29368
+2023-11-02,945.0,14970023.0,$945 to Suzanne balance for October salary via Akasha,Amarose,False,15841.29368
+2023-11-02,132.56,2100000.0,2.1mm Allianz insurance,Amarose,False,15841.29368
+2023-11-02,500.0,7920647.0,$500 Kevin for partial payment against October,Amarose,False,15841.29368
+2023-11-02,500.0,7920647.0,$500 Coates Media against past due,Amarose,False,15841.29368
+2023-11-02,25.0,396032.0,$25 charity for Aiden,personal,False,15841.29368
+2023-11-02,42.0,665334.0,$42 lunch,personal,False,15841.29368
+2023-11-02,18.0,285143.0,$18 for drinks,personal,False,15841.29368
+2023-11-02,357.99,5671000.0,5.671mm to Biznet,Amarose,False,15841.29368
+2023-11-03,9.0,141440.0,Bolt $9,Lako,False,15715.59247
+2023-11-03,10.0,157156.0,$10 is apple,personal,False,15715.59247
+2023-11-03,30.0,471468.0,$30 food,personal,False,15715.59247
+2023-11-04,10.0,157156.0,$10 Redbull,personal,False,15715.59291
+2023-11-04,100.0,1571559.0,$100 ATM withdrawal,personal,False,15715.59291
+2023-11-05,486.75,7644000.0,7.644mm to Ira (2.4mm for obat for pools; 5.244mm listrik),Amarose,False,15704.15308
+2023-11-05,126.5,1986575.0,$253 T-Mobile,Amarose,True,15704.15308
+2023-11-05,126.5,1986575.0,$253 T-Mobile,law firm,True,15704.15308
+2023-11-06,322.2,5000000.0,5mm to Suzanne partial salary November,Amarose,False,15518.30438
+2023-11-06,311.0,4826193.0,$311 Adobe,law firm,False,15518.30438
+2023-11-06,902.16,14000000.0,14mm Budi new water heater,Amarose,False,15518.30438
+2023-11-06,12.0,186220.0,$12 Spotify,personal,False,15518.30438
+2023-11-06,14.0,217256.0,$14 Apple,personal,False,15518.30438
+2023-11-06,64.44,1000000.0,1mm cash withdrawal,personal,False,15518.30438
+2023-11-07,111.0,1734178.0,$111 Microsoft,law firm,False,15623.22223
+2023-11-08,2312.77,36149017.0,36.149.017mm to Riza for CPA fees and local taxes,Amarose,False,15630.19656
+2023-11-08,303.0,4735950.0,$303 1st American,personal,False,15630.19656
+2023-11-08,57.58,900000.0,900k mani/pedi,personal,False,15630.19656
+2023-11-08,17.91,280000.0,280k sugaring,personal,False,15630.19656
+2023-11-08,8.96,140000.0,140k lunch,personal,False,15630.19656
+2023-11-08,1.0,15630.0,$1 SOS Fainotoys,law firm,False,15630.19656
+2023-11-09,191.89,3000000.0,3mm to Ira for groceries,Amarose,False,15633.88398
+2023-11-09,35.0,547186.0,$35 registered agent Fainotoys,law firm,False,15633.88398
+2023-11-09,60.77,950000.0,"950k hair dye, lashes",personal,False,15633.88398
+2023-11-09,158.8,2482600.0,2.482.600mm for Mimi at Sunset Vet,personal,False,15633.88398
+2023-11-10,223.0,3495695.0,$223 Botox,personal,False,15675.76223
+2023-11-10,318.96,5000000.0,5mm deposit BEC for fixtures cafe,Amarose,False,15675.76223
+2023-11-10,893.1,14000000.0,14mm Budi hot water heater payment,Amarose,False,15675.76223
+2023-11-10,92.5,1450000.0,1.450mm Saiful meds,personal,False,15675.76223
+2023-11-10,22.0,344867.0,$22 drinks,personal,False,15675.76223
+2023-11-10,22.0,344867.0,$22 drinks,personal,False,15675.76223
+2023-11-10,79.0,1238385.0,$79  dinner,personal,False,15675.76223
+2023-11-10,6.0,94055.0,$6 Redbull,personal,False,15675.76223
+2023-11-11,85.0,1332440.0,$85 food/drinks/Gojekâ€™s,personal,False,15675.76269
+2023-11-12,12.0,188137.0,$12 Apple,personal,False,15678.04808
+2023-11-12,30.0,470341.0,$30 food/drinks/Gojekâ€™s,personal,False,15678.04808
+2023-11-13,232.86,3650000.0,3.650mm to Ira for maintenance of bean bags and purchase of raton chair,Amarose,False,15674.59759
+2023-11-13,38.5,603472.0,$77 Dropbox,law firm,True,15674.59759
+2023-11-13,38.5,603472.0,$77 Dropbox,Amarose,True,15674.59759
+2023-11-14,192.75,3022333.0,WowBooze 3.022.333mm,Amarose,False,15680.016090975
+2023-11-14,300.0,4704005.0,$300 Texas SOS Thread Lightly,law firm,False,15680.016090975
+2023-11-15,128.0,1985337.0,$128 groceries on Akasha card etc,Amarose,False,15510.44832475
+2023-11-15,11.0,170615.0,$11 Facebook marketing fees,Amarose,False,15510.44832475
+2023-11-15,8.0,124084.0,$8.10 to Texas SOS,law firm,False,15510.44832475
+2023-11-16,15.14,235000.0,235k at Bintang with Akasha card - food/beverage,Amarose,False,15525.996146137
+2023-11-16,77.0,1195502.0,$77 hotel in Gili,Lako,False,15525.996146137
+2023-11-16,66.0,1024716.0,$66 starfish ferry,Lako,False,15525.996146137
+2023-11-17,193.83,3000000.0,3mm partial payment for salary to Suzanne for November,Amarose,False,15477.782224134
+2023-11-17,129.22,2000000.0,2mm cash withdrawal for Gili trip,personal,False,15477.782224134
+2023-11-18,13.0,201211.0,Efax $13,law firm,False,15477.782099284
+2023-11-18,30.0,464333.0,$30 dinner,personal,False,15477.782099284
+2023-11-18,16.0,247645.0,$16 drinks,personal,False,15477.782099284
+2023-11-18,30.0,464333.0,$30 pool pass,personal,False,15477.782099284
+2023-11-19,68.0,1052663.0,$68 Casetext,law firm,False,15480.333926237
+2023-11-19,8.5,131583.0,$17 zoom,law firm,True,15480.333926237
+2023-11-19,8.5,131583.0,$17 zoom,Amarose,True,15480.333926237
+2023-11-19,193.79,3000000.0,3mm Ira groceries,Amarose,False,15480.333926237
+2023-11-20,25.0,385704.0,$25 evisa Vietnam,Lako,False,15428.155505614
+2023-11-20,500.0,7714078.0,$500 to Kevin for October 2nd payment,Amarose,False,15428.155505614
+2023-11-20,124.02,1913340.0,1.913.340mm IDR at PEPITO MARKET for staff dinner/meeting,Amarose,False,15428.155505614
+2023-11-20,19.0,293135.0,$19 to Cheapest Delaware Registered Agent,law firm,False,15428.155505614
+2023-11-21,100.0,1541340.0,$100 juice cleanse,personal,False,15413.39653079
+2023-11-21,1300.0,20037415.0,$1300 from Suzanne to Akasha repayment on loan,personal,False,15413.39653079
+2023-11-22,1000.0,15559855.0,$1000 Bre Ostermeyer,Amarose,False,15559.854656333
+2023-11-22,35.71,555608.0,555.608k Bintang groceries,Amarose,False,15559.854656333
+2023-11-23,115.0,1786144.0,$115 groceries for staff dinner,Amarose,False,15531.682839889
+2023-11-23,9.66,150000.0,150k animals,personal,False,15531.682839889
+2023-11-23,25.75,400000.0,400k eyelashes,personal,False,15531.682839889
+2023-11-23,54.73,850000.0,850k dr apt,personal,False,15531.682839889
+2023-11-23,476.0,7393081.0,$476 tix for Irakli to Georgia,Lako,False,15531.682839889
+2023-11-24,321.56,5000000.0,5mm salary to Suzanne for November,Amarose,False,15549.096586494
+2023-11-24,231.52,3600000.0,3.6mm Ira groceries of which 400k is to reimburse spa,Amarose,False,15549.096586494
+2023-11-24,1080.93,16807500.0,16.807.500mm Ardana lighting/power at cafe,Amarose,False,15549.096586494
+2023-11-24,257.25,4000000.0,4mm to Suzanne in partial payment against December salary,Amarose,False,15549.096586494
+2023-11-24,353.72,5500000.0,5.5mm to Saiful for scripts,personal,False,15549.096586494
+2023-11-26,28.0,435474.0,$28 cigs,personal,False,15552.62897622
+2023-11-26,224.72,3495000.0,3.495mm landscapers maintenance,Amarose,False,15552.62897622
+2023-11-26,176.82,2750000.0,2.750mm Noel for training,personal,False,15552.62897622
+2023-11-27,6.0,92849.0,$6 FB ads,Amarose,False,15474.885179024
+2023-11-27,16.0,247598.0,$16 Grab taxi KL,Lako,False,15474.885179024
+2023-11-27,46.0,711845.0,$46 ATM withdrawal KL,personal,False,15474.885179024
+2023-11-27,120.0,1856986.0,$120 lunch/drinks KL,personal,False,15474.885179024
+2023-11-27,70.0,1083242.0,$70 dinner KL,personal,False,15474.885179024
+2023-11-27,2.0,30950.0,$2 Redbull,personal,False,15474.885179024
+2023-11-28,18.0,276934.0,$18 breakfast,personal,False,15385.247146857
+2023-11-28,44.0,676951.0,$44 groceries,personal,False,15385.247146857
+2023-11-28,86.0,1323131.0,$86 dinner at Banyan in KL,personal,False,15385.247146857
+2023-11-28,3.0,46156.0,$3 FB ads,Amarose,False,15385.247146857
+2023-11-29,40.0,614859.0,$40 lunch KL with Matt ,Lako,False,15371.479451073
+2023-11-29,5.0,76857.0,$5 FB ads,Amarose,False,15371.479451073
+2023-11-29,45.0,691717.0,$45 atm withdrawal Vietnam,personal,False,15371.479451073
+2023-11-29,2.0,30743.0,$2 FB ads,Amarose,False,15371.479451073
+2023-11-29,196.0,3012810.0,$196 hotel in Vietnam,Lako,False,15371.479451073
+2023-11-29,3.0,46114.0,$3 coffee,personal,False,15371.479451073
+2023-11-29,3.0,46114.0,$3 Redbull,personal,False,15371.479451073
+2023-11-30,82.0,1269737.0,$82 atm withdrawal in Vietnam,personal,False,15484.594123288
+2023-11-30,20.0,309692.0,$20 Mekong trip,personal,False,15484.594123288
+2023-11-30,11.0,170331.0,$11 lunch,personal,False,15484.594123288
+2023-11-30,6.5,100650.0,$13 VPN,Amarose,True,15484.594123288
+2023-11-30,6.5,100650.0,$13 VPN,law firm,True,15484.594123288
+2023-11-30,19.0,294207.0,$19.19 google,Amarose,False,15484.594123288

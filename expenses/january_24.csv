@@ -1,0 +1,142 @@
+date,amount_usd,amount_idr,description,category,is_split,rate
+2024-01-01,19.19,295187.0,$19.19 Google,Amarose,False,15382.315030371
+2024-01-01,845.13,13000056.0,13mm to Ira for salaries and op expenses,Amarose,False,15382.315030371
+2024-01-02,32.0,494290.0,$32 gas,law firm,False,15446.548317859
+2024-01-02,5.0,77233.0,$5 drinks,personal,False,15446.548317859
+2024-01-02,9.0,139019.0,$9 food,personal,False,15446.548317859
+2024-01-03,1453.5,22475028.0,"22,475mm Ira for salaries and op expenses",Amarose,False,15462.695895
+2024-01-03,600.0,9277618.0,$600 to Suzanne partial Jan salary pd via Akasha ,Amarose,False,15462.695895
+2024-01-03,2000.0,30925392.0,$2000 transfer from Akasha to Amarose OCBC,donâ€™t list as just transfer from one account to the next,False,15462.695895
+2024-01-03,45.0,695821.0,$45 Whitney wire fees,Amarose,False,15462.695895
+2024-01-03,25.0,386567.0,$25 OCBC wire fees,Amarose,False,15462.695895
+2024-01-03,10.0,154627.0,$10 apple,personal,False,15462.695895
+2024-01-03,303.87,4698649.0,$303.87 First American,personal,False,15462.695895
+2024-01-03,4.1,63397.0,$4.10 Amazon,personal,False,15462.695895
+2024-01-03,6.48,100198.0,$6.48 Amazon,personal,False,15462.695895
+2024-01-04,969.63,15000011.0,15mm Ardana to install flooring for project,Amarose,False,15469.829227117
+2024-01-04,4.47,69073.0,$8.93 Microsoft,law firm,True,15469.829227117
+2024-01-04,4.47,69073.0,$8.93 Microsoft,Amarose,True,15469.829227117
+2024-01-04,25.0,386746.0,$25 Walgreens,personal,False,15469.829227117
+2024-01-04,11.0,170168.0,$11 dinner,personal,False,15469.829227117
+2024-01-05,736.69,11417318.0,Wayan 11.417.273mm,4.399.649 earthquake insurance renewal for Akasha villa; 7.017.624 all risk insurance renewal Akasha villa - Amarose operating expense,False,15498.130693183
+2024-01-05,364.33,5646434.0,Biznet: 5.646.367mm,Amarose operating expenses,False,15498.130693183
+2024-01-05,729.88,11311776.0,"Ira: 11.311.700 listrik 6.811.700, groceries 3mm, 1.5mm reimburse staff, spa",Amarose operating expenses,False,15498.130693183
+2024-01-05,439.52,6811738.0,Listrik,Amarose operating expenses,False,15498.130693183
+2024-01-05,193.57,2999973.0,Groceries,Amarose operating expenses,False,15498.130693183
+2024-01-05,96.79,1500064.0,"Reimburse staff, spa",Amarose operating expenses,False,15498.130693183
+2024-01-05,129.0,1999259.0,$258 T-Mobile,law firm,True,15498.130693183
+2024-01-05,129.0,1999259.0,$258 T-Mobile,Amarose,True,15498.130693183
+2024-01-05,12.0,185978.0,$12 Dinner,personal,False,15498.130693183
+2024-01-06,22.0,340959.0,$22 FB Ads,Amarose,False,15498.130464869
+2024-01-06,4.35,67417.0,$4.35 Wheelhouse,Amarose,False,15498.130464869
+2024-01-06,14.0,216974.0,$14 Apple,personal,False,15498.130464869
+2024-01-06,48.0,743910.0,$48 Dillards makeup,personal,False,15498.130464869
+2024-01-06,21.0,325461.0,$21 lunch,personal,False,15498.130464869
+2024-01-06,54.0,836899.0,$54 Buckle,personal,False,15498.130464869
+2024-01-06,12.0,185978.0,$12 Spotify,personal,False,15498.130464869
+2024-01-07,22.0,341023.0,$22 lunch,personal,False,15501.055642211
+2024-01-08,36.0,558535.0,$36 Walgreens,personal,False,15514.851105958
+2024-01-08,7.0,108604.0,$7 lunch in cash,personal,False,15514.851105958
+2024-01-08,1200.0,18617821.0,$1200 loan from Suzanne to Akasha,personal loan,False,15514.851105958
+2024-01-08,2850.0,44217326.0,$2850 wire to Amarose from Akasha,donâ€™t include in excel - just fyi,False,15514.851105958
+2024-01-09,83.0,1286652.0,$83 Target,personal,False,15501.835911809
+2024-01-10,106.43,1654944.0,EcoBali 1.655mm,Amarose operating expenses,False,15549.603600793
+2024-01-10,151.77,2359963.0,Allianz 2.360mm,Insurance operating expense,False,15549.603600793
+2024-01-10,344.0,5349064.0,$344 Dr Pancratz,medical,False,15549.603600793
+2024-01-10,13.0,202145.0,$13 breakfast,personal,False,15549.603600793
+2024-01-10,160.0,2487937.0,$160 from Suzanne IOLTA to Akasha loan,personal loan,False,15549.603600793
+2024-01-10,15.0,233244.0,$15 FB ads,Amarose operating expense,False,15549.603600793
+2024-01-10,68.0,1057373.0,$68 Office Depot,Amarose op expense,False,15549.603600793
+2024-01-10,1075.63,16725620.0,"16,725,600mm Unique Yoga","Amarose project expense - mats, bolsters, etc for new yoga shala",False,15549.603600793
+2024-01-10,1241.11,19298769.0,Riza/Local taxes 19.298.738,Amarose op expenses,False,15549.603600793
+2024-01-11,10.0,155056.0,$10 FB Ads,Amarose op expense,False,15505.582858332
+2024-01-11,25.0,387640.0,$25 Walgreens,personal,False,15505.582858332
+2024-01-11,22.0,341123.0,$22 Starbucks breakfast,personal,False,15505.582858332
+2024-01-11,1403.0,21754333.0,$1403 AA flight to Basel,law firm,False,15505.582858332
+2024-01-11,140.0,2170782.0,$140 repayment of loan to Suzanne from Akasha,Amarose,False,15505.582858332
+2024-01-12,13.52,209902.0,$13.52 Wheelhouse,Amarose op expense,False,15525.310664686
+2024-01-12,12.0,186304.0,$12 Apple,personal,False,15525.310664686
+2024-01-12,50.0,776266.0,$50 loan from Suzanne firm PayPal account to Akasha Holdings PayPal account for FB ads,personal loan to Amarose,False,15525.310664686
+2024-01-12,40.0,621012.0,$40 loan from Suzanne to Akasha,personal loan to Amarose,False,15525.310664686
+2024-01-12,30.0,465759.0,$30 Hayushi,personal,False,15525.310664686
+2024-01-12,11.0,170778.0,$11 Arbyâ€™s lunch,personal,False,15525.310664686
+2024-01-12,193.23,2999956.0,groceries,Amarose operating expenses,False,15525.310664686
+2024-01-12,78.58,1219979.0,tips other reimburse,Amarose operating expenses,False,15525.310664686
+2024-01-13,64.41,999985.0,1mm partial salary to Suzanne from OCBC,Amarose op expense,False,15525.310544844
+2024-01-13,20.29,315009.0,315k to Sunset Vet,personal,False,15525.310544844
+2024-01-13,644.11,10000008.0,10mm Ardana for yoga shala project,Amarose project expense,False,15525.310544844
+2024-01-13,13.0,201829.0,$13 FB Ads,Amarose op expenses,False,15525.310544844
+2024-01-13,15.0,232880.0,$15 gas,law firm,False,15525.310544844
+2024-01-14,38.37,596143.0,$76.75 Dropbox,law firm,True,15534.678423689
+2024-01-14,38.37,596143.0,$76.75 Dropbox,Amarose,True,15534.678423689
+2024-01-14,3.61,56080.0,$3.61 FB Ads,Amarose op expense,False,15534.678423689
+2024-01-14,3.49,54216.0,$3.49 FB Ads,Amarose op expense,False,15534.678423689
+2024-01-14,16.16,251040.0,$16.16 Fb ads,Amarose op expense,False,15534.678423689
+2024-01-14,2.33,36196.0,$2.33 Fb ads,Amarose op expense,False,15534.678423689
+2024-01-15,15.0,233253.0,$15 Taco Villa lunch,personal,False,15550.201018359
+2024-01-16,224.75,3499953.0,3.5mm service Aeromax bike,Amarose maintainance,False,15572.64827595
+2024-01-16,10.0,155726.0,$10 gas,law firm,False,15572.64827595
+2024-01-16,174.0,2709641.0,$174 Amazing Lash,personal,False,15572.64827595
+2024-01-16,275.0,4282478.0,$275 to Brussels mtg with Doug,Amarose travel expense,False,15572.64827595
+2024-01-17,12.95,202222.0,$12.95 Efax,law firm,False,15615.630404131
+2024-01-17,39.0,609010.0,$39 Aims,personal,False,15615.630404131
+2024-01-17,488.0,7620428.0,$488 Suzanne salary final pd via Akasha,Amarose op expense,False,15615.630404131
+2024-01-17,70.0,1093094.0,$70 Walmart,personal,False,15615.630404131
+2024-01-18,34.0,530466.0,$34 Hayushi lunch,personal,False,15601.935333516
+2024-01-18,1.64,25587.0,$1.64 Fb ads,Amarose operating expense,False,15601.935333516
+2024-01-18,78.0,1216951.0,$78 Sugaring NYC,personal,False,15601.935333516
+2024-01-18,800.0,12481548.0,$800 loan repayment to Suzanne,Amarose,False,15601.935333516
+2024-01-18,34.0,530466.0,$34 dinner at Rudyâ€™s,law firm,False,15601.935333516
+2024-01-18,200.0,3120387.0,$200 ATM withdrawal,personal,False,15601.935333516
+2024-01-19,68.0,1059613.0,$68 Casetext,law firm,False,15582.545233602
+2024-01-19,335.0,5220153.0,$335 hotel Basel,personal,False,15582.545233602
+2024-01-19,8.5,132452.0,$17 zoom,law firm,True,15582.545233602
+2024-01-19,8.5,132452.0,$17 zoom,Amarose,True,15582.545233602
+2024-01-19,23.0,358399.0,$23 drinks airport,personal,False,15582.545233602
+2024-01-19,84.0,1308934.0,$84 Walgreens,personal,False,15582.545233602
+2024-01-19,38.0,592137.0,$38 luggage store,Lako,False,15582.545233602
+2024-01-20,4.0,62330.0,$4 Redbull at airport in London,personal,False,15582.545051782
+2024-01-20,146.0,2275052.0,$146 dinner at Rein,personal,False,15582.545051782
+2024-01-21,64.0,997487.0,$64 groceries in Basel,personal,False,15585.736871327
+2024-01-21,51.0,794873.0,$51 dinner La Manufacturer,personal,False,15585.736871327
+2024-01-22,4100.0,64004100.0,"$4,100 loan from Suzanne to Akasha",personal loan,False,15610.756024749
+2024-01-22,45.0,702484.0,$45 Whitney wire fees,Amarose op expense,False,15610.756024749
+2024-01-22,25.0,390269.0,$25 OCBC  wire fees,Amarose op expense,False,15610.756024749
+2024-01-22,41.25,643944.0,644k Sunset Vet,personal,False,15610.756024749
+2024-01-22,4.32,67438.0,$4.32 Prime Video,personal,False,15610.756024749
+2024-01-22,138.0,2154284.0,$138 Dinner at ALTE Post,personal,False,15610.756024749
+2024-01-23,21.0,327835.0,$21 drinks at Mister Wong,personal,False,15611.211021381
+2024-01-23,28.0,437114.0,$28 drinks at airport,personal,False,15611.211021381
+2024-01-23,192.17,3000006.0,3mm to Ira for groceries,Amarose op expense,False,15611.211021381
+2024-01-23,1921.7,30000064.0,30mm to Ardana for yoga shala,Amarose project expense,False,15611.211021381
+2024-01-23,45.0,702504.0,$45 Bolt,law firm,False,15611.211021381
+2024-01-23,7.0,109278.0,$7 Redbull,personal,False,15611.211021381
+2024-01-23,60.0,936673.0,$60 dinner with Doug Turner,law firm expense,False,15611.211021381
+2024-01-23,1071.38,16725539.0,"16,725,600mm Unique Yoga for yoga equipment",Amarose project expenses,False,15611.211021381
+2024-01-23,201.44,3144722.0,"3,144,800mm to Depo Bagus for FFE",Amarose project expense,False,15611.211021381
+2024-01-24,15.0,235383.0,$15 hotel Redbull,personal,False,15692.196898237
+2024-01-24,78.0,1223991.0,$78 Dinner with Doug Turner,law firm,False,15692.196898237
+2024-01-24,45.0,706149.0,$45 drinks with Doug Turner,law firm,False,15692.196898237
+2024-01-25,14.0,221307.0,$14 train tickets Brussels,law firm,False,15807.627585323
+2024-01-25,17.0,268730.0,$17 snacks/drinks airport,personal,False,15807.627585323
+2024-01-26,57.0,900430.0,$57 dinner in Dubai,personal,False,15797.017220088
+2024-01-26,9.0,142173.0,$9 drinks,personal,False,15797.017220088
+2024-01-26,9.0,142173.0,$9 FB Ads,Amarose op expense,False,15797.017220088
+2024-01-27,24.0,379128.0,$24 FB Ads,Amarose op expense,False,15797.016498074
+2024-01-27,94.95,1499927.0,1.5mm Nyoman photographer,Amarose op expense - marketing,False,15797.016498074
+2024-01-27,379.82,6000023.0,6mm Feb salary  to Suzanne from OCBC,Amarose op expense,False,15797.016498074
+2024-01-27,63.3,999951.0,1mm to Ira for petty cash for Suzanne,personal,False,15797.016498074
+2024-01-27,227.89,3599982.0,3.6mm to Ira (2.6mm obat; 1mm petty cash),Amarose op expense,False,15797.016498074
+2024-01-27,206.43,3260978.0,3.260.900mm to Depo Bagus for FFE,Amarose project expense,False,15797.016498074
+2024-01-28,18.98,299945.0,300k Ardana airport pick up,personal,False,15803.237520602
+2024-01-29,38.16,602562.0,$38.16 GoDaddy domains,VyKarious,False,15790.41596302
+2024-01-29,14.44,228014.0,$14.44 FB ads,Amarose op expense,False,15790.41596302
+2024-01-29,6.0,94742.0,$6 FB Ads,Amarose op expense,False,15790.41596302
+2024-01-30,22.0,346786.0,$22 to Resya Gym,personal,False,15763.003563614
+2024-01-30,253.76,4000020.0,4mm partial salary to Suzanne,Amarose op expense,False,15763.003563614
+2024-01-30,174.46,2750014.0,2.750mm to Noel training,personal,False,15763.003563614
+2024-01-30,1.27,20019.0,20k water,personal,False,15763.003563614
+2024-01-30,12.69,200033.0,200k massage,personal,False,15763.003563614
+2024-01-30,6.47,102065.0,$12.95 Express VPN,law firm,True,15763.003563614
+2024-01-30,6.47,102065.0,$12.95 Express VPN,Amarose,True,15763.003563614
+2024-01-31,285.44,4500062.0,4.5mm Ira for food and beverage,Amarose op expense,False,15765.351608207

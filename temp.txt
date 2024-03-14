@@ -1,0 +1,8 @@
+
+
+DATABASE_URL='mysql://jujh3jzeiopwx3plvlij:pscale_pw_KVeTbMhgOxFuZXEJdBrqS9qDesaeYngqwGOnVJpdD3j@aws.connect.psdb.cloud/masakali?sslaccept=strict'
+
+host = aws.connect.psdb.cloud
+user = jujh3jzeiopwx3plvlij
+password = pscale_pw_KVeTbMhgOxFuZXEJdBrqS9qDesaeYngqwGOnVJpdD3j
+database = masakali
